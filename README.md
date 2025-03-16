@@ -6,11 +6,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#89](https://github.com/thisisrick25/swapnaneel.me/issues/89) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-2. 🎉 Merged PR [#90](https://github.com/thisisrick25/swapnaneel.me/pull/90) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-3. 💪 Opened PR [#90](https://github.com/thisisrick25/swapnaneel.me/pull/90) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-4. ❗ Opened issue [#89](https://github.com/thisisrick25/swapnaneel.me/issues/89) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-5. ❗ Opened issue [#3687](https://github.com/asyncapi/website/issues/3687) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❗ Opened issue [#2](https://github.com/thisisrick25/my-operating-system/issues/2) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
+2. ❗ Opened issue [#1](https://github.com/thisisrick25/my-operating-system/issues/1) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
+3. 🔒 Closed issue [#89](https://github.com/thisisrick25/swapnaneel.me/issues/89) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
+4. 🎉 Merged PR [#90](https://github.com/thisisrick25/swapnaneel.me/pull/90) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
+5. 💪 Opened PR [#90](https://github.com/thisisrick25/swapnaneel.me/pull/90) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools:
