@@ -6,11 +6,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/thisisrick25/my-operating-system/issues/2) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
-2. 🎉 Merged PR [#3](https://github.com/thisisrick25/my-operating-system/pull/3) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
-3. 💪 Opened PR [#3](https://github.com/thisisrick25/my-operating-system/pull/3) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
-4. ❗ Opened issue [#2](https://github.com/thisisrick25/my-operating-system/issues/2) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
-5. ❗ Opened issue [#1](https://github.com/thisisrick25/my-operating-system/issues/1) in [thisisrick25/my-operating-system](https://github.com/thisisrick25/my-operating-system)
+1. ❗ Opened issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+2. 🔒 Closed issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+3. 🎉 Merged PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+4. 💪 Opened PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+5. ❗ Opened issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools:
