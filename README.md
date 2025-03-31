@@ -6,11 +6,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-2. 🔒 Closed issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-3. 🎉 Merged PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-4. 💪 Opened PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-5. ❗ Opened issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+1. ❌ Closed PR [#1139](https://github.com/vinitshahdeo/inspirational-quotes/pull/1139) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+2. ❗ Opened issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+3. 🔒 Closed issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+4. 🎉 Merged PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+5. 💪 Opened PR [#2](https://github.com/thisisrick25/my-text-editor/pull/2) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools:
