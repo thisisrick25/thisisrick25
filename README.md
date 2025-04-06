@@ -6,11 +6,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2775272624) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
-2. 💪 Opened PR [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
-3. ❌ Closed PR [#1139](https://github.com/vinitshahdeo/inspirational-quotes/pull/1139) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-4. ❗ Opened issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-5. 🔒 Closed issue [#1](https://github.com/thisisrick25/my-text-editor/issues/1) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+1. ❗ Opened issue [#5](https://github.com/thisisrick25/my-text-editor/issues/5) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+2. 🔒 Closed issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+3. 🎉 Merged PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+4. 💪 Opened PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+5. 🗣 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2775272624) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools:
