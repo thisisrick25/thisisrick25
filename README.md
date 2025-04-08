@@ -31,3 +31,5 @@
 <td width="50%"><img src="github-metrics.svg" alt="Metric" /></td>
   </tr>
 </table>
+
+![thisisrick25's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thisisrick25&theme=github-compact)
