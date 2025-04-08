@@ -2,9 +2,7 @@
   <tr>
     <td width="50%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" /> 
-  
-<img src="https://hit.yhype.me/github/profile?account_id=53182793" alt="thisisrick25" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 </p>
 
 ## Recent Activity:
