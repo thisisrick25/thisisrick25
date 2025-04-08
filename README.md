@@ -6,11 +6,11 @@
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/thisisrick25/my-text-editor/issues/5) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-2. 🔒 Closed issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-3. 🎉 Merged PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-4. 💪 Opened PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
-5. 🗣 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2775272624) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
+1. 🗣 Commented on [#56](https://github.com/neuroinformatics-unit/gsoc/pull/56#issuecomment-2784457752) in [neuroinformatics-unit/gsoc](https://github.com/neuroinformatics-unit/gsoc)
+2. ❗ Opened issue [#5](https://github.com/thisisrick25/my-text-editor/issues/5) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+3. 🔒 Closed issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+4. 🎉 Merged PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
+5. 💪 Opened PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools:
