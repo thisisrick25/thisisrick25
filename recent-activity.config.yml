@@ -1,7 +1,6 @@
 settings:
   max_lines: 15
 
-
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
