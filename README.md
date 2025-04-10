@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#56](https://github.com/neuroinformatics-unit/gsoc/pull/56#issuecomment-2784457752) in [neuroinformatics-unit/gsoc](https://github.com/neuroinformatics-unit/gsoc)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-7. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
+1. ⭐ Starred [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+3. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+4. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+5. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+7. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
 9. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
-10. ❗️ Opened issue [#5](https://github.com/thisisrick25/my-text-editor/issues/5) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-11. ⬆️ Pushed 17 commit(s) to [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-12. ✔️ Closed issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-13. 🎉 Merged PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-14. 💪 Opened PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-15. ⬆️ Pushed 1 commit(s) to [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+11. 💬 Commented on [#56](https://github.com/neuroinformatics-unit/gsoc/pull/56#issuecomment-2784457752) in [neuroinformatics-unit/gsoc](https://github.com/neuroinformatics-unit/gsoc)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
+13. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
+14. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
+15. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
