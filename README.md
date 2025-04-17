@@ -9,19 +9,19 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-3. ⭐ Starred [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-7. 💬 Commented on [#547](https://github.com/brainglobe/brainglobe-atlasapi/issues/547#issuecomment-2800068410) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-8. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2800060180) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-9. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-10. 💬 Commented on [#538](https://github.com/brainglobe/brainglobe-atlasapi/pull/538#discussion_r2041172795) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-11. 🔱 Forked [thisisrick25/cppyy-backend](https://github.com/thisisrick25/cppyy-backend) from [compiler-research/cppyy-backend](https://github.com/compiler-research/cppyy-backend)<br>
-12. ⭐ Starred [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)<br>
-13. ⭐ Starred [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)<br>
-14. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
-15. ⬆️ Pushed 2 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
+3. ⭐ Starred [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)<br>
+4. ⭐ Starred [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)<br>
+5. ⭐ Starred [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)<br>
+6. ⭐ Starred [CTFd/CTFd](https://github.com/CTFd/CTFd)<br>
+7. ⭐ Starred [trailofbits/ctf](https://github.com/trailofbits/ctf)<br>
+8. ⭐ Starred [ctfs/resources](https://github.com/ctfs/resources)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+11. ⭐ Starred [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+13. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+14. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+15. 💬 Commented on [#547](https://github.com/brainglobe/brainglobe-atlasapi/issues/547#issuecomment-2800068410) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
