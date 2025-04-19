@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-4. ⭐ Starred [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)<br>
-5. ⭐ Starred [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)<br>
-6. ⭐ Starred [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)<br>
-7. ⭐ Starred [CTFd/CTFd](https://github.com/CTFd/CTFd)<br>
-8. ⭐ Starred [trailofbits/ctf](https://github.com/trailofbits/ctf)<br>
-9. ⭐ Starred [ctfs/resources](https://github.com/ctfs/resources)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-11. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-12. ⭐ Starred [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)<br>
-13. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-14. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-15. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+1. ⬆️ Pushed 6 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+2. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+4. 💪 Opened PR [#45](https://github.com/satoshi-create/emakimono-next/pull/45) in [satoshi-create/emakimono-next](https://github.com/satoshi-create/emakimono-next)<br>
+5. ⭐ Starred [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+10. ⭐ Starred [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)<br>
+11. ⭐ Starred [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)<br>
+12. ⭐ Starred [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)<br>
+13. ⭐ Starred [CTFd/CTFd](https://github.com/CTFd/CTFd)<br>
+14. ⭐ Starred [trailofbits/ctf](https://github.com/trailofbits/ctf)<br>
+15. ⭐ Starred [ctfs/resources](https://github.com/ctfs/resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
