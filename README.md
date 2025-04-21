@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#45](https://github.com/satoshi-create/emakimono-next/pull/45#issuecomment-2816793756) in [satoshi-create/emakimono-next](https://github.com/satoshi-create/emakimono-next)<br>
-2. ⬆️ Pushed 6 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-5. 💪 Opened PR [#45](https://github.com/satoshi-create/emakimono-next/pull/45) in [satoshi-create/emakimono-next](https://github.com/satoshi-create/emakimono-next)<br>
-6. ⭐ Starred [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)<br>
-7. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-11. ⭐ Starred [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)<br>
-12. ⭐ Starred [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)<br>
-13. ⭐ Starred [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)<br>
-14. ⭐ Starred [CTFd/CTFd](https://github.com/CTFd/CTFd)<br>
-15. ⭐ Starred [trailofbits/ctf](https://github.com/trailofbits/ctf)<br>
+1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+2. ⭐ Starred [sb2nov/resume](https://github.com/sb2nov/resume)<br>
+3. 💬 Commented on [#45](https://github.com/satoshi-create/emakimono-next/pull/45#issuecomment-2816793756) in [satoshi-create/emakimono-next](https://github.com/satoshi-create/emakimono-next)<br>
+4. ⬆️ Pushed 6 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+5. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+7. 💪 Opened PR [#45](https://github.com/satoshi-create/emakimono-next/pull/45) in [satoshi-create/emakimono-next](https://github.com/satoshi-create/emakimono-next)<br>
+8. ⭐ Starred [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)<br>
+9. ⬆️ Pushed 2 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
+11. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+13. ⭐ Starred [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)<br>
+14. ⭐ Starred [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)<br>
+15. ⭐ Starred [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
