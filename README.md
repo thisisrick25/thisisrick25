@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060613008) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-2. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060612606) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-4. ⭐ Starred [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)<br>
-5. ⭐ Starred [edtechre/pybroker](https://github.com/edtechre/pybroker)<br>
-6. ⭐ Starred [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade)<br>
-7. 🔱 Forked [thisisrick25/marmite](https://github.com/thisisrick25/marmite) from [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
-8. ⭐ Starred [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
-9. 💬 Commented on [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7#issuecomment-2821852171) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
-10. ⭐ Starred [dwyl/learn-tdd](https://github.com/dwyl/learn-tdd)<br>
-11. ⭐ Starred [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming)<br>
-12. 💪 Opened PR [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
-13. 🔱 Forked [thisisrick25/mcp-server-boilerplate](https://github.com/thisisrick25/mcp-server-boilerplate) from [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
-14. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
-15. ⭐ Starred [sb2nov/resume](https://github.com/sb2nov/resume)<br>
+1. 💬 Commented on [#564](https://github.com/brainglobe/brainglobe-atlasapi/issues/564#issuecomment-2832573829) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+2. ⭐ Starred [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)<br>
+3. ⭐ Starred [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading)<br>
+4. ⭐ Starred [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)<br>
+5. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060673100) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+6. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060668809) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+7. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060613008) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+8. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060612606) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+9. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
+10. ⭐ Starred [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)<br>
+11. ⭐ Starred [edtechre/pybroker](https://github.com/edtechre/pybroker)<br>
+12. ⭐ Starred [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade)<br>
+13. 🔱 Forked [thisisrick25/marmite](https://github.com/thisisrick25/marmite) from [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
+14. ⭐ Starred [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
+15. 💬 Commented on [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7#issuecomment-2821852171) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
