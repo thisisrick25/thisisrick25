@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2835762177) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-3. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2063258449) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-4. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2063244911) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-5. ⭐ Starred [Nebius-Academy/LLM-Engineering-Essentials](https://github.com/Nebius-Academy/LLM-Engineering-Essentials)<br>
-6. ⬆️ Pushed 5 commit(s) to [thisisrick25/emakimono-next](https://github.com/thisisrick25/emakimono-next)<br>
-7. 💬 Commented on [#564](https://github.com/brainglobe/brainglobe-atlasapi/issues/564#issuecomment-2832573829) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-8. ⭐ Starred [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)<br>
-9. ⭐ Starred [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading)<br>
-10. ⭐ Starred [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)<br>
-11. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060673100) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-12. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060668809) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-13. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060613008) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-14. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2060612606) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-15. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
+1. 💪 Opened PR [#2452](https://github.com/falconry/falcon/pull/2452) in [falconry/falcon](https://github.com/falconry/falcon)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+4. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+5. 🔱 Forked [thisisrick25/falcon](https://github.com/thisisrick25/falcon) from [falconry/falcon](https://github.com/falconry/falcon)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+7. 🎉 Merged PR [#2](https://github.com/thisisrick25/falcon/pull/2) in [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+8. 💪 Opened PR [#2](https://github.com/thisisrick25/falcon/pull/2) in [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+9. 🔱 Forked [thisisrick25/falcon](https://github.com/thisisrick25/falcon) from [falconry/falcon](https://github.com/falconry/falcon)<br>
+10. 💬 Commented on [#564](https://github.com/brainglobe/brainglobe-atlasapi/issues/564#issuecomment-2839687620) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+11. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2066770794) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+13. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#issuecomment-2835762177) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+14. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+15. 💬 Commented on [#555](https://github.com/brainglobe/brainglobe-atlasapi/pull/555#discussion_r2063258449) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
