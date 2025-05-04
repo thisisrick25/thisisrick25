@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr)<br>
-2. ⭐ Starred [Probely/CTF-Challenges](https://github.com/Probely/CTF-Challenges)<br>
-3. ⭐ Starred [LechGrzelak/QuantFinanceBook](https://github.com/LechGrzelak/QuantFinanceBook)<br>
-4. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
-5. ⭐ Starred [taduyde/Best-websites-a-programmer-should-visit](https://github.com/taduyde/Best-websites-a-programmer-should-visit)<br>
-6. 💬 Commented on [#2452](https://github.com/falconry/falcon/pull/2452#issuecomment-2845339304) in [falconry/falcon](https://github.com/falconry/falcon)<br>
-7. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)<br>
-8. 💪 Opened PR [#2452](https://github.com/falconry/falcon/pull/2452) in [falconry/falcon](https://github.com/falconry/falcon)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
-11. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
-12. 🔱 Forked [thisisrick25/falcon](https://github.com/thisisrick25/falcon) from [falconry/falcon](https://github.com/falconry/falcon)<br>
-13. ⬆️ Pushed 2 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
-14. 🎉 Merged PR [#2](https://github.com/thisisrick25/falcon/pull/2) in [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
-15. 💪 Opened PR [#2](https://github.com/thisisrick25/falcon/pull/2) in [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+1. 💪 Opened PR [#238](https://github.com/brainglobe/brainreg/pull/238) in [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg)<br>
+3. 🔱 Forked [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg) from [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
+4. 💬 Commented on [#62](https://github.com/brainglobe/brainglobe-registration/issues/62#issuecomment-2848722237) in [brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)<br>
+5. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
+6. ⭐ Starred [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr)<br>
+7. ⭐ Starred [Probely/CTF-Challenges](https://github.com/Probely/CTF-Challenges)<br>
+8. ⭐ Starred [LechGrzelak/QuantFinanceBook](https://github.com/LechGrzelak/QuantFinanceBook)<br>
+9. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+10. ⭐ Starred [taduyde/Best-websites-a-programmer-should-visit](https://github.com/taduyde/Best-websites-a-programmer-should-visit)<br>
+11. 💬 Commented on [#2452](https://github.com/falconry/falcon/pull/2452#issuecomment-2845339304) in [falconry/falcon](https://github.com/falconry/falcon)<br>
+12. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)<br>
+13. 💪 Opened PR [#2452](https://github.com/falconry/falcon/pull/2452) in [falconry/falcon](https://github.com/falconry/falcon)<br>
+14. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
+15. ⬆️ Pushed 1 commit(s) to [thisisrick25/falcon](https://github.com/thisisrick25/falcon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
