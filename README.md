@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/brainglobe/brainglobe.github.io/issues/4#issuecomment-2849414205) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-2. ⬆️ Pushed 10 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-3. 💪 Opened PR [#238](https://github.com/brainglobe/brainreg/pull/238) in [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg)<br>
-5. 🔱 Forked [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg) from [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
-6. 💬 Commented on [#62](https://github.com/brainglobe/brainglobe-registration/issues/62#issuecomment-2848722237) in [brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)<br>
-7. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
-8. ⭐ Starred [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr)<br>
-9. ⭐ Starred [Probely/CTF-Challenges](https://github.com/Probely/CTF-Challenges)<br>
-10. ⭐ Starred [LechGrzelak/QuantFinanceBook](https://github.com/LechGrzelak/QuantFinanceBook)<br>
-11. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
-12. ⭐ Starred [taduyde/Best-websites-a-programmer-should-visit](https://github.com/taduyde/Best-websites-a-programmer-should-visit)<br>
-13. 💬 Commented on [#2452](https://github.com/falconry/falcon/pull/2452#issuecomment-2845339304) in [falconry/falcon](https://github.com/falconry/falcon)<br>
-14. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)<br>
-15. 💪 Opened PR [#2452](https://github.com/falconry/falcon/pull/2452) in [falconry/falcon](https://github.com/falconry/falcon)<br>
+1. 🔱 Forked [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io) from [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+2. ⭐ Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)<br>
+3. 💬 Commented on [#4](https://github.com/brainglobe/brainglobe.github.io/issues/4#issuecomment-2849414205) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+4. ⬆️ Pushed 10 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+5. 💪 Opened PR [#238](https://github.com/brainglobe/brainreg/pull/238) in [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg)<br>
+7. 🔱 Forked [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg) from [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
+8. 💬 Commented on [#62](https://github.com/brainglobe/brainglobe-registration/issues/62#issuecomment-2848722237) in [brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)<br>
+9. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
+10. ⭐ Starred [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr)<br>
+11. ⭐ Starred [Probely/CTF-Challenges](https://github.com/Probely/CTF-Challenges)<br>
+12. ⭐ Starred [LechGrzelak/QuantFinanceBook](https://github.com/LechGrzelak/QuantFinanceBook)<br>
+13. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+14. ⭐ Starred [taduyde/Best-websites-a-programmer-should-visit](https://github.com/taduyde/Best-websites-a-programmer-should-visit)<br>
+15. 💬 Commented on [#2452](https://github.com/falconry/falcon/pull/2452#issuecomment-2845339304) in [falconry/falcon](https://github.com/falconry/falcon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
