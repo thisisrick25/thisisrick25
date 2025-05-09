@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/brainglobe/brainglobe.github.io/issues/4#issuecomment-2857665670) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-2. ⭐ Starred [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-4. 💬 Commented on [#4](https://github.com/brainglobe/brainglobe.github.io/issues/4#issuecomment-2855924830) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-5. ⬆️ Pushed 3 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-6. 🔱 Forked [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io) from [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-7. ⭐ Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)<br>
-8. 💬 Commented on [#4](https://github.com/brainglobe/brainglobe.github.io/issues/4#issuecomment-2849414205) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-9. ⬆️ Pushed 10 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-10. 💪 Opened PR [#238](https://github.com/brainglobe/brainreg/pull/238) in [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
-11. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg)<br>
-12. 🔱 Forked [thisisrick25/brainreg](https://github.com/thisisrick25/brainreg) from [brainglobe/brainreg](https://github.com/brainglobe/brainreg)<br>
-13. 💬 Commented on [#62](https://github.com/brainglobe/brainglobe-registration/issues/62#issuecomment-2848722237) in [brainglobe/brainglobe-registration](https://github.com/brainglobe/brainglobe-registration)<br>
-14. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
-15. ⭐ Starred [TheFourGreatErrors/alpha-rptr](https://github.com/TheFourGreatErrors/alpha-rptr)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+11. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+13. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+14. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+15. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2859823355) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
