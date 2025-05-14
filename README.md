@@ -7,13 +7,13 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [thisisrick25/tinygrad](https://github.com/thisisrick25/tinygrad) from [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)<br>
-2. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)<br>
-3. ⭐ Starred [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)<br>
-4. ❗️ Opened issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-5. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2865980464) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-6. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2863728296) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+1. 🔱 Forked [thisisrick25/actions](https://github.com/thisisrick25/actions) from [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+2. 🔱 Forked [thisisrick25/tinygrad](https://github.com/thisisrick25/tinygrad) from [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)<br>
+3. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)<br>
+4. ⭐ Starred [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)<br>
+5. ❗️ Opened issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+6. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2865980464) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+7. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2863728296) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
 8. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
 9. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
 10. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
