@@ -7,18 +7,18 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [thisisrick25/actions](https://github.com/thisisrick25/actions) from [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-2. 🔱 Forked [thisisrick25/tinygrad](https://github.com/thisisrick25/tinygrad) from [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)<br>
-3. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)<br>
-4. ⭐ Starred [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)<br>
-5. ❗️ Opened issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-6. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2865980464) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-7. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2863728296) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-11. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-12. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+1. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2881318315) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
+6. 🔱 Forked [thisisrick25/actions](https://github.com/thisisrick25/actions) from [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+7. 🔱 Forked [thisisrick25/tinygrad](https://github.com/thisisrick25/tinygrad) from [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)<br>
+8. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)<br>
+9. ⭐ Starred [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)<br>
+10. ❗️ Opened issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+11. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2865980464) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+12. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2863728296) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
 13. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
 14. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
 15. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
