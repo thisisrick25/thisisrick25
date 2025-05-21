@@ -7,21 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-4. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2891553916) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-5. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2889209795) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-6. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-7. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+1. ⭐ Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)<br>
+2. ⭐ Starred [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui)<br>
+3. ⭐ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
+4. ⭐ Starred [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui)<br>
+5. ⭐ Starred [Ali-Hussein-dev/indie-ui](https://github.com/Ali-Hussein-dev/indie-ui)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/react-rtk-auth-chat-feed](https://github.com/thisisrick25/react-rtk-auth-chat-feed)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
 8. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-9. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-10. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-11. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-12. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-13. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-14. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
-15. 🎉 Merged PR [#6](https://github.com/thisisrick25/katyayaniorganics-task/pull/6) in [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+9. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+10. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2891553916) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
