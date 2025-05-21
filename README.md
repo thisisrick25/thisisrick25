@@ -7,21 +7,21 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#56](https://github.com/neuroinformatics-unit/gsoc/pull/56#issuecomment-2784457752) in [neuroinformatics-unit/gsoc](https://github.com/neuroinformatics-unit/gsoc)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-7. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/gsoc](https://github.com/thisisrick25/gsoc)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/thisisrick25](https://github.com/thisisrick25/thisisrick25)<br>
-10. ❗️ Opened issue [#5](https://github.com/thisisrick25/my-text-editor/issues/5) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-11. ⬆️ Pushed 17 commit(s) to [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-12. ✔️ Closed issue [#3](https://github.com/thisisrick25/my-text-editor/issues/3) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-13. 🎉 Merged PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-14. 💪 Opened PR [#4](https://github.com/thisisrick25/my-text-editor/pull/4) in [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
-15. ⬆️ Pushed 1 commit(s) to [thisisrick25/my-text-editor](https://github.com/thisisrick25/my-text-editor)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+3. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+4. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2891553916) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+5. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2889209795) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+7. ⬆️ Pushed 2 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+9. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+10. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+11. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+12. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+13. ⬆️ Pushed 1 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+14. ⬆️ Pushed 3 commit(s) to [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
+15. 🎉 Merged PR [#6](https://github.com/thisisrick25/katyayaniorganics-task/pull/6) in [thisisrick25/katyayaniorganics-task](https://github.com/thisisrick25/katyayaniorganics-task)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
