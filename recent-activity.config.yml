@@ -1,5 +1,5 @@
 settings:
-  max_lines: 15
+  max_lines: 10
 
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
