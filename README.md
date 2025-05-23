@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. ⭐ Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)<br>
-8. ⭐ Starred [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui)<br>
-9. ⭐ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
-10. ⭐ Starred [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui)<br>
+1. 🎉 Merged PR [#133](https://github.com/thisisrick25/swapnaneel.me/pull/133) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ⬆️ Pushed 18 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. 💪 Opened PR [#133](https://github.com/thisisrick25/swapnaneel.me/pull/133) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
