@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-2. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
-4. ⬆️ Pushed 3 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. ⬆️ Pushed 16 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. 🎉 Merged PR [#134](https://github.com/thisisrick25/swapnaneel.me/pull/134) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. 💪 Opened PR [#134](https://github.com/thisisrick25/swapnaneel.me/pull/134) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-8. ⬆️ Pushed 9 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. 🎉 Merged PR [#133](https://github.com/thisisrick25/swapnaneel.me/pull/133) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
+2. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110276218) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+3. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2913973145) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+4. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110176507) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
