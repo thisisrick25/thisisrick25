@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
-2. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110276218) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-3. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2913973145) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-4. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110176507) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
-7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
+1. ⭐ Starred [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
+3. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110276218) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+4. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2913973145) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+5. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#discussion_r2110176507) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/actions](https://github.com/thisisrick25/actions)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
