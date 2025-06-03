@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)<br>
-2. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2927782889) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-3. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2927774946) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-5. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-6. ⬆️ Pushed 3 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-7. ⬆️ Pushed 5 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-8. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-9. ⬆️ Pushed 12 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-10. ⬆️ Pushed 5 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+1. ❗️ Opened issue [#581](https://github.com/brainglobe/brainglobe-atlasapi/issues/581) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+2. ⬆️ Pushed 3 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+3. ⭐ Starred [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)<br>
+4. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-2927782889) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+5. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-2927774946) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+7. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+8. ⬆️ Pushed 3 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+9. ⬆️ Pushed 5 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+10. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
