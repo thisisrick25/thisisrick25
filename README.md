@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-4. ⬆️ Pushed 13 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-5. ⬆️ Pushed 4 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-6. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+1. ❗️ Opened issue [#2](https://github.com/thisisrick25/IntelliCommit/issues/2) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+2. ❗️ Opened issue [#1](https://github.com/thisisrick25/IntelliCommit/issues/1) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+3. 📔 Created new repository [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+4. ⭐ Starred [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)<br>
+5. ⭐ Starred [emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)<br>
+6. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
 7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-8. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-2945946817) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-9. ❗️ Opened issue [#582](https://github.com/brainglobe/brainglobe-atlasapi/issues/582) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-10. 💬 Commented on [#581](https://github.com/brainglobe/brainglobe-atlasapi/issues/581#issuecomment-2936750739) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+8. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+9. ⬆️ Pushed 13 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+10. ⬆️ Pushed 4 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
