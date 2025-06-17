@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-2. 🎉 Merged PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-3. 💪 Opened PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+1. 📔 Created new repository [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+3. 🎉 Merged PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+4. 💪 Opened PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
 5. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-6. 🎉 Merged PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-7. ❌ Closed PR [#12](https://github.com/thisisrick25/IntelliCommit/pull/12) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-9. 💪 Opened PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+7. 🎉 Merged PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+8. ❌ Closed PR [#12](https://github.com/thisisrick25/IntelliCommit/pull/12) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+10. 💪 Opened PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
