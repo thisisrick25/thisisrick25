@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-3. 🎉 Merged PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-4. 💪 Opened PR [#15](https://github.com/thisisrick25/IntelliCommit/pull/15) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-7. 🎉 Merged PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-8. ❌ Closed PR [#12](https://github.com/thisisrick25/IntelliCommit/pull/12) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
-10. 💪 Opened PR [#13](https://github.com/thisisrick25/IntelliCommit/pull/13) in [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+1. ❌ Closed PR [#138](https://github.com/thisisrick25/swapnaneel.me/pull/138) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ❌ Closed PR [#140](https://github.com/thisisrick25/swapnaneel.me/pull/140) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. ❌ Closed PR [#139](https://github.com/thisisrick25/swapnaneel.me/pull/139) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. ❌ Closed PR [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. 💬 Commented on [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141#issuecomment-2977724919) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. 💪 Opened PR [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. 💬 Commented on [#140](https://github.com/thisisrick25/swapnaneel.me/pull/140#issuecomment-2977710874) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. 💪 Opened PR [#140](https://github.com/thisisrick25/swapnaneel.me/pull/140) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
