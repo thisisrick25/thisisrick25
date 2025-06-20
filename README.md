@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sdatkinson/neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler)<br>
-2. ❌ Closed PR [#138](https://github.com/thisisrick25/swapnaneel.me/pull/138) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. ❌ Closed PR [#140](https://github.com/thisisrick25/swapnaneel.me/pull/140) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. ❌ Closed PR [#139](https://github.com/thisisrick25/swapnaneel.me/pull/139) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. ❌ Closed PR [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. 💬 Commented on [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141#issuecomment-2977724919) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. 💪 Opened PR [#141](https://github.com/thisisrick25/swapnaneel.me/pull/141) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-8. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+1. ⬆️ Pushed 5 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ⭐ Starred [rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)<br>
+3. 💪 Opened PR [#147](https://github.com/thisisrick25/swapnaneel.me/pull/147) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. 🎉 Merged PR [#146](https://github.com/thisisrick25/swapnaneel.me/pull/146) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. 💪 Opened PR [#146](https://github.com/thisisrick25/swapnaneel.me/pull/146) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. 💬 Commented on [#140](https://github.com/thisisrick25/swapnaneel.me/pull/140#issuecomment-2977710874) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
