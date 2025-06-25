@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-2. 🎉 Merged PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. 💪 Opened PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. ⬆️ Pushed 8 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. 🎉 Merged PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. 💪 Opened PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-8. ⭐ Starred [Bjarten/computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)<br>
-9. ⭐ Starred [ashishpatel26/Real-time-ML-Project](https://github.com/ashishpatel26/Real-time-ML-Project)<br>
-10. ⭐ Starred [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. 🎉 Merged PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. 💪 Opened PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. ⬆️ Pushed 8 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. 🎉 Merged PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. 💪 Opened PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⭐ Starred [Bjarten/computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)<br>
+10. ⭐ Starred [ashishpatel26/Real-time-ML-Project](https://github.com/ashishpatel26/Real-time-ML-Project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
