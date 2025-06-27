@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. 🎉 Merged PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. 💪 Opened PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. ⬆️ Pushed 8 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. 🎉 Merged PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. 💪 Opened PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. ⭐ Starred [Bjarten/computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)<br>
+1. ⭐ Starred [MakeContributions/DSA](https://github.com/MakeContributions/DSA)<br>
+2. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. ⬆️ Pushed 4 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. 🎉 Merged PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. 💪 Opened PR [#149](https://github.com/thisisrick25/swapnaneel.me/pull/149) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. ⬆️ Pushed 8 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. 🎉 Merged PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. 💪 Opened PR [#148](https://github.com/thisisrick25/swapnaneel.me/pull/148) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
