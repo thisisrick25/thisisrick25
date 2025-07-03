@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely)<br>
-2. ⭐ Starred [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. 🎉 Merged PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. 💪 Opened PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
-8. ⬆️ Pushed 6 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. 🎉 Merged PR [#155](https://github.com/thisisrick25/swapnaneel.me/pull/155) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. 💪 Opened PR [#155](https://github.com/thisisrick25/swapnaneel.me/pull/155) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. ⭐ Starred [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely)<br>
+4. ⭐ Starred [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui)<br>
+5. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. 🎉 Merged PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. 💪 Opened PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
+10. ⬆️ Pushed 6 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
