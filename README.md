@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-3. ⭐ Starred [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely)<br>
-4. ⭐ Starred [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui)<br>
-5. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. 🎉 Merged PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-7. 💪 Opened PR [#157](https://github.com/thisisrick25/swapnaneel.me/pull/157) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-8. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
-10. ⬆️ Pushed 6 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+1. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+2. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
+3. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
+4. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+5. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
+6. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
+7. ⭐ Starred [azminewasi/online-ml-university](https://github.com/azminewasi/online-ml-university)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. ⭐ Starred [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
