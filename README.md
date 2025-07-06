@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
-2. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
-3. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
-4. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
-5. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
-6. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
-7. ⭐ Starred [azminewasi/online-ml-university](https://github.com/azminewasi/online-ml-university)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+1. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
+2. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+3. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
+4. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
+5. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+6. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
+7. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
+8. ⭐ Starred [azminewasi/online-ml-university](https://github.com/azminewasi/online-ml-university)<br>
 9. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-10. ⭐ Starred [Tej-Sharma/horizon-overlay-open-source-cluely](https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
