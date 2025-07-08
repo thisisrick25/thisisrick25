@@ -8,15 +8,15 @@
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-2. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
-3. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
-4. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
-5. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
-6. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
-7. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
-8. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
-9. ⭐ Starred [azminewasi/online-ml-university](https://github.com/azminewasi/online-ml-university)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+3. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
+4. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+5. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
+6. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
+7. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+8. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
+9. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
+10. ⭐ Starred [azminewasi/online-ml-university](https://github.com/azminewasi/online-ml-university)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
