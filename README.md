@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+2. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
 3. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-4. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
-5. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
-6. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
-7. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
-8. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
-9. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
-10. ⭐ Starred [ageron/handson-ml3](https://github.com/ageron/handson-ml3)<br>
+4. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+5. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
+6. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+7. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
+8. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
+9. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+10. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
