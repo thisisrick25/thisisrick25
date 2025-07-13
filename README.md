@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-2. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+1. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+3. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
 4. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-5. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
-6. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
-7. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
-8. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
-9. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
-10. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+6. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
+7. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+8. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
+9. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
+10. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
