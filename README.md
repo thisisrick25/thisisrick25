@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-3. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
+1. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
+2. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+3. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
 4. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-6. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
-7. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
-8. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
-9. ⭐ Starred [imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)<br>
-10. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+5. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
+8. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
+9. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+10. ⭐ Starred [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
