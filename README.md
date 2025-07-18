@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens)<br>
-2. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
-3. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
-4. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-6. ⭐ Starred [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)<br>
-7. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
-9. ⭐ Starred [shubhamku044/la-resume](https://github.com/shubhamku044/la-resume)<br>
-10. ⭐ Starred [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)<br>
+1. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
+2. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
+3. ⭐ Starred [coree/awesome-rag](https://github.com/coree/awesome-rag)<br>
+4. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
+5. ⭐ Starred [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)<br>
+6. ⭐ Starred [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens)<br>
+7. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
+8. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+9. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/dotfiles](https://github.com/thisisrick25/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
