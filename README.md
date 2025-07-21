@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)<br>
-2. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
-3. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
-4. ⭐ Starred [coree/awesome-rag](https://github.com/coree/awesome-rag)<br>
-5. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
-6. ⭐ Starred [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)<br>
-7. ⭐ Starred [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens)<br>
-8. ⭐ Starred [continuedev/continue](https://github.com/continuedev/continue)<br>
-9. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
-10. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3065840865) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+1. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
+2. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
+3. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
+4. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
+5. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
+6. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+7. ⭐ Starred [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)<br>
+8. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
+9. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
+10. ⭐ Starred [coree/awesome-rag](https://github.com/coree/awesome-rag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
