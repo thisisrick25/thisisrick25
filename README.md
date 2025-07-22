@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
-2. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
-3. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
-4. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
-5. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
-6. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
-7. ⭐ Starred [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)<br>
-8. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
-9. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
-10. ⭐ Starred [coree/awesome-rag](https://github.com/coree/awesome-rag)<br>
+1. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
+2. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
+3. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
+4. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
+5. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
+6. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
+7. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+8. ⭐ Starred [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)<br>
+9. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
+10. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
