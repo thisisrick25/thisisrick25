@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
-2. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
-3. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
-4. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
-5. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
-6. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
-7. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
-8. ⭐ Starred [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)<br>
-9. ⭐ Starred [aeron7/nsepython](https://github.com/aeron7/nsepython)<br>
-10. ⭐ Starred [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)<br>
+1. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
+2. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
+3. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)<br>
+4. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
+5. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
+6. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
+7. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
+8. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
+9. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
+10. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
