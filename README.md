@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [foambubble/foam](https://github.com/foambubble/foam)<br>
-2. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
-3. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
-4. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)<br>
-5. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
-6. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
-7. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
-8. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
-9. ⭐ Starred [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)<br>
-10. ⭐ Starred [dankornas/ailearninghub](https://github.com/dankornas/ailearninghub)<br>
+1. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+2. ❌ Closed PR [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
+3. ⭐ Starred [foambubble/foam](https://github.com/foambubble/foam)<br>
+4. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
+5. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
+6. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)<br>
+7. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
+8. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
+9. ⭐ Starred [colanode/colanode](https://github.com/colanode/colanode)<br>
+10. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
