@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
-2. ⭐ Starred [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)<br>
-3. ⭐ Starred [blinkospace/blinko](https://github.com/blinkospace/blinko)<br>
-4. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-5. ❌ Closed PR [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
-6. ⭐ Starred [foambubble/foam](https://github.com/foambubble/foam)<br>
-7. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
-8. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
-9. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)<br>
-10. ⭐ Starred [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)<br>
+1. ⭐ Starred [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)<br>
+2. ⭐ Starred [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)<br>
+3. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
+4. ⭐ Starred [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)<br>
+5. ⭐ Starred [blinkospace/blinko](https://github.com/blinkospace/blinko)<br>
+6. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+7. ❌ Closed PR [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
+8. ⭐ Starred [foambubble/foam](https://github.com/foambubble/foam)<br>
+9. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
+10. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
