@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)<br>
-2. ⭐ Starred [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)<br>
-3. ⭐ Starred [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)<br>
-4. ⭐ Starred [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)<br>
-5. ⭐ Starred [blinkospace/blinko](https://github.com/blinkospace/blinko)<br>
-6. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-7. ❌ Closed PR [#7](https://github.com/josharsh/mcp-server-boilerplate/pull/7) in [josharsh/mcp-server-boilerplate](https://github.com/josharsh/mcp-server-boilerplate)<br>
-8. ⭐ Starred [foambubble/foam](https://github.com/foambubble/foam)<br>
-9. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
-10. ⭐ Starred [jwwthu/how-to-research](https://github.com/jwwthu/how-to-research)<br>
+1. ⬆️ Pushed 11 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+2. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+3. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3140364906) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+4. ✔️ Closed issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+5. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-3139965257) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+6. ❌ Closed PR [#84](https://github.com/neuroinformatics-unit/actions/pull/84) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
+7. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+8. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2245365296) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+9. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2245359295) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+10. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3139287993) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
