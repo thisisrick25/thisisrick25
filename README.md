@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 11 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-2. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-3. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3140364906) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-4. ✔️ Closed issue [#83](https://github.com/neuroinformatics-unit/actions/issues/83) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-5. 💬 Commented on [#84](https://github.com/neuroinformatics-unit/actions/pull/84#issuecomment-3139965257) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-6. ❌ Closed PR [#84](https://github.com/neuroinformatics-unit/actions/pull/84) in [neuroinformatics-unit/actions](https://github.com/neuroinformatics-unit/actions)<br>
-7. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-8. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2245365296) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-9. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2245359295) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-10. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3139287993) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+1. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3146684780) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+2. ⬆️ Pushed 9 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+3. ⬆️ Pushed 8 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+4. ⬆️ Pushed 5 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+5. ⬆️ Pushed 11 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+6. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#issuecomment-3144829007) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+7. ⬆️ Pushed 3 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+8. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2248158728) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+9. ⬆️ Pushed 4 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+10. ⬆️ Pushed 11 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
