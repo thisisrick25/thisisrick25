@@ -30,5 +30,5 @@
 <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=thisisrick25&theme=github-compact" 
     alt="thisisrick25's GitHub Activity Graph"
-    style="height: 100px; width: auto;"
+    style="height: 100px;"
 />
