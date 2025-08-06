@@ -27,4 +27,8 @@
   </tr>
 </table>
 
-![thisisrick25's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thisisrick25&theme=github-compact)
+<img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thisisrick25&theme=github-compact" 
+    alt="thisisrick25's GitHub Activity Graph"
+    style="height: 50%; width: auto;"
+>
