@@ -23,6 +23,10 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
