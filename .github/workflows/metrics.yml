@@ -19,7 +19,7 @@ jobs:
           # Options
           user: thisisrick25
           template: classic
-          base: header, activity
+          base: activity
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
