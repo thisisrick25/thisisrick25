@@ -18,7 +18,7 @@ jobs:
 
           # Options
           user: thisisrick25
-          template: repository
+          template: classic
           base: header, activity
           config_octicon: yes
           config_padding: 0, 0
