@@ -21,9 +21,14 @@ jobs:
           template: classic
           base: header, activity
           config_octicon: yes
-          config_padding: 0, 0
           config_timezone: Asia/Calcutta
           config_twemoji: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -38,3 +43,4 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           repositories_batch: 500
+          repositories_forks: yes
