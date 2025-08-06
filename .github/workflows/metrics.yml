@@ -28,7 +28,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_self: yes
-          plugin_notable_types: commit
+          plugin_notable_types: commit, pull_request, issue
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
