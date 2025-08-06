@@ -18,7 +18,7 @@ jobs:
 
           # Options
           user: thisisrick25
-          template: classic
+          template: repository
           base: header, activity
           config_octicon: yes
           config_padding: 0, 0
@@ -37,6 +37,4 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_stars: yes
-          plugin_stars_limit: 4
           repositories_batch: 500
