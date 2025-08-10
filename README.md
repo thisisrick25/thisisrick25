@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-3. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2260877145) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-4. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2260873426) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-5. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2260863781) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-6. ⭐ Starred [awesomelistsio/awesome-crypto-mining](https://github.com/awesomelistsio/awesome-crypto-mining)<br>
-7. ⭐ Starred [lukasmasuch/best-of-crypto](https://github.com/lukasmasuch/best-of-crypto)<br>
-8. ⭐ Starred [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)<br>
-9. ⭐ Starred [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources)<br>
-10. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3160975542) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+8. ⬆️ Pushed 1 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+9. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2260877145) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+10. 💬 Commented on [#584](https://github.com/brainglobe/brainglobe-atlasapi/pull/584#discussion_r2260873426) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
