@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3191530877) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
-3. 📔 Created new repository [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
-4. ⭐ Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)<br>
-5. ⭐ Starred [microsoft/qlib](https://github.com/microsoft/qlib)<br>
-6. ⭐ Starred [moby/moby](https://github.com/moby/moby)<br>
-7. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
-8. ⭐ Starred [containers/podman](https://github.com/containers/podman)<br>
-9. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)<br>
-10. ⬆️ Pushed 44 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+1. ⬆️ Pushed 15 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
+2. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+3. ⬆️ Pushed 20 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
+4. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3191530877) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
+6. 📔 Created new repository [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
+7. ⭐ Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)<br>
+8. ⭐ Starred [microsoft/qlib](https://github.com/microsoft/qlib)<br>
+9. ⭐ Starred [moby/moby](https://github.com/moby/moby)<br>
+10. ⭐ Starred [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
