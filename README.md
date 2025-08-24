@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6235](https://github.com/google-gemini/gemini-cli/pull/6235#issuecomment-3215019450) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. 💬 Commented on [#6235](https://github.com/google-gemini/gemini-cli/pull/6235#issuecomment-3213250361) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-3. ❗️ Opened issue [#629](https://github.com/brainglobe/brainglobe-atlasapi/issues/629) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
-4. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3213077714) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-5. ⬆️ Pushed 15 commit(s) to [thisisrick25/brainglobe-atlasapi](https://github.com/thisisrick25/brainglobe-atlasapi)<br>
-6. ⬆️ Pushed 2 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-7. ⬆️ Pushed 20 commit(s) to [thisisrick25/brainglobe.github.io](https://github.com/thisisrick25/brainglobe.github.io)<br>
-8. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3191530877) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
-10. 📔 Created new repository [thisisrick25/my-email-signature](https://github.com/thisisrick25/my-email-signature)<br>
+1. 💬 Commented on [#8737](https://github.com/sktime/sktime/pull/8737#issuecomment-3217229235) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+2. 💪 Opened PR [#8737](https://github.com/sktime/sktime/pull/8737) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+3. 💬 Commented on [#8736](https://github.com/sktime/sktime/pull/8736#issuecomment-3217178462) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+4. ❌ Closed PR [#8736](https://github.com/sktime/sktime/pull/8736) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+5. 💪 Opened PR [#8736](https://github.com/sktime/sktime/pull/8736) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+6. 🔱 Forked [thisisrick25/sktime](https://github.com/thisisrick25/sktime) from [sktime/sktime](https://github.com/sktime/sktime)<br>
+7. 💬 Commented on [#6235](https://github.com/google-gemini/gemini-cli/pull/6235#issuecomment-3215019450) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+8. 💬 Commented on [#6235](https://github.com/google-gemini/gemini-cli/pull/6235#issuecomment-3213250361) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+9. ❗️ Opened issue [#629](https://github.com/brainglobe/brainglobe-atlasapi/issues/629) in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)<br>
+10. 💬 Commented on [#329](https://github.com/brainglobe/brainglobe.github.io/pull/329#issuecomment-3213077714) in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
