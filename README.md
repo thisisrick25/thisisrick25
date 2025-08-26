@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
-2. ⭐ Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)<br>
-3. ⬆️ Pushed 256 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-4. ⭐ Starred [dandls/counterfactuals](https://github.com/dandls/counterfactuals)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
-6. 💬 Commented on [#8737](https://github.com/sktime/sktime/pull/8737#issuecomment-3217229235) in [sktime/sktime](https://github.com/sktime/sktime)<br>
-7. 💪 Opened PR [#8737](https://github.com/sktime/sktime/pull/8737) in [sktime/sktime](https://github.com/sktime/sktime)<br>
-8. 💬 Commented on [#8736](https://github.com/sktime/sktime/pull/8736#issuecomment-3217178462) in [sktime/sktime](https://github.com/sktime/sktime)<br>
-9. ❌ Closed PR [#8736](https://github.com/sktime/sktime/pull/8736) in [sktime/sktime](https://github.com/sktime/sktime)<br>
-10. 💪 Opened PR [#8736](https://github.com/sktime/sktime/pull/8736) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+1. 💬 Commented on [#8750](https://github.com/sktime/sktime/pull/8750#issuecomment-3220898366) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
+4. 💪 Opened PR [#8750](https://github.com/sktime/sktime/pull/8750) in [sktime/sktime](https://github.com/sktime/sktime)<br>
+5. ⭐ Starred [growchief/growchief](https://github.com/growchief/growchief)<br>
+6. ⬆️ Pushed 7 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
+7. ⭐ Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)<br>
+8. ⬆️ Pushed 256 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+9. ⭐ Starred [dandls/counterfactuals](https://github.com/dandls/counterfactuals)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/sktime](https://github.com/thisisrick25/sktime)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
