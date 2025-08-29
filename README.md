@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-7. 📔 Created new repository [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
-8. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#discussion_r2301683880) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-9. ⬆️ Pushed 13 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-10. ⭐ Starred [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin)<br>
+1. ⬆️ Pushed 3 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+2. ⬆️ Pushed 4 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+4. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+6. 📔 Created new repository [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+7. ⭐ Starred [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)<br>
+8. ⭐ Starred [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)<br>
+9. ⬆️ Pushed 2 commit(s) to [thisisrick25/IntelliCommit](https://github.com/thisisrick25/IntelliCommit)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/awesome-github-url-hacks](https://github.com/thisisrick25/awesome-github-url-hacks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
