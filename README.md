@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-2. ⬆️ Pushed 5 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-4. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+1. ⭐ Starred [nileshtrivedi/fixable](https://github.com/nileshtrivedi/fixable)<br>
+2. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+3. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+4. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+5. ⬆️ Pushed 3 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+6. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
 7. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
 8. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+9. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
+10. ⬆️ Pushed 2 commit(s) to [thisisrick25/leetcode2github](https://github.com/thisisrick25/leetcode2github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
