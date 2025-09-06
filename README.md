@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/thisisrick25/readme-engine/issues/11) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-2. 👍 Approved [#9](https://github.com/thisisrick25/readme-engine/pull/9#pullrequestreview-3181306628) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-3. 👍 Approved [#10](https://github.com/thisisrick25/readme-engine/pull/10#pullrequestreview-3181304691) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-4. ⬆️ Pushed 7 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-5. ✔️ Closed issue [#7](https://github.com/thisisrick25/readme-engine/issues/7) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-6. 🎉 Merged PR [#8](https://github.com/thisisrick25/readme-engine/pull/8) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-7. 💬 Commented on [#7](https://github.com/thisisrick25/readme-engine/issues/7#issuecomment-3248681873) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-8. 💬 Commented on [#8](https://github.com/thisisrick25/readme-engine/pull/8#issuecomment-3248679813) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-9. 💪 Opened PR [#8](https://github.com/thisisrick25/readme-engine/pull/8) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-10. ❗️ Opened issue [#7](https://github.com/thisisrick25/readme-engine/issues/7) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+1. 👍 Approved [#14](https://github.com/thisisrick25/readme-engine/pull/14#pullrequestreview-3190852927) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+2. ⬆️ Pushed 5 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+3. ⬆️ Pushed 2 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+4. 🎉 Merged PR [#13](https://github.com/thisisrick25/readme-engine/pull/13) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+5. ⬆️ Pushed 1 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+6. ⬆️ Pushed 1 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+7. ✔️ Closed issue [#11](https://github.com/thisisrick25/readme-engine/issues/11) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+8. ⬆️ Pushed 13 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+9. 🎉 Merged PR [#12](https://github.com/thisisrick25/readme-engine/pull/12) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+10. ⬆️ Pushed 5 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
