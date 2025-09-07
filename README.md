@@ -7,15 +7,15 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#14](https://github.com/thisisrick25/readme-engine/pull/14#pullrequestreview-3190852927) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-2. ⬆️ Pushed 5 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-4. 🎉 Merged PR [#13](https://github.com/thisisrick25/readme-engine/pull/13) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-7. ✔️ Closed issue [#11](https://github.com/thisisrick25/readme-engine/issues/11) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-8. ⬆️ Pushed 13 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
-9. 🎉 Merged PR [#12](https://github.com/thisisrick25/readme-engine/pull/12) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+1. 📔 Created new repository [thisisrick25/EEG-motor-imagery-classification](https://github.com/thisisrick25/EEG-motor-imagery-classification)<br>
+2. ⭐ Starred [nim-lang/Nim](https://github.com/nim-lang/Nim)<br>
+3. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+4. ⬆️ Pushed 5 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+5. 🎉 Merged PR [#15](https://github.com/thisisrick25/readme-engine/pull/15) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+6. 💪 Opened PR [#15](https://github.com/thisisrick25/readme-engine/pull/15) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+7. ⬆️ Pushed 3 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+8. 🎉 Merged PR [#14](https://github.com/thisisrick25/readme-engine/pull/14) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
+9. 👍 Approved [#14](https://github.com/thisisrick25/readme-engine/pull/14#pullrequestreview-3190852927) in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
 10. ⬆️ Pushed 5 commit(s) to [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
