@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 28 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-2. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#issuecomment-3315546117) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-3. ⬆️ Pushed 1 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-4. ⬆️ Pushed 3 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-5. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#issuecomment-3315204388) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-7. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#issuecomment-3315198067) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+1. ⬆️ Pushed 95 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+2. ⬆️ Pushed 3 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+3. ⬆️ Pushed 3 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+4. ⬆️ Pushed 9 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+5. ⬆️ Pushed 28 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+6. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#issuecomment-3315546117) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+7. ⬆️ Pushed 1 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
 8. ⬆️ Pushed 3 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-9. ⬆️ Pushed 484 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
-10. ⬆️ Pushed 413 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
+9. 💬 Commented on [#7077](https://github.com/google-gemini/gemini-cli/pull/7077#issuecomment-3315204388) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+10. ⬆️ Pushed 1 commit(s) to [thisisrick25/gemini-cli](https://github.com/thisisrick25/gemini-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
