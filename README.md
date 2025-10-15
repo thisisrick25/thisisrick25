@@ -7,16 +7,16 @@
 
 ## Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-2. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-3. ⬆️ Pushed 2 commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-4. 🎉 Merged PR [#165](https://github.com/thisisrick25/swapnaneel.me/pull/165) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-6. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-7. ⬆️ Pushed 2 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-8. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-9. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
-10. ⬆️ Pushed 1 commit(s) to [thisisrick25/posts](https://github.com/thisisrick25/posts)<br>
+1. ⭐ Starred [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)<br>
+2. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+4. 💪 Opened PR [#173](undefined) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+5. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+6. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+7. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+8. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+10. 💪 Opened PR [#172](undefined) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages and Tools:
