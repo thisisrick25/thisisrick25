@@ -9,13 +9,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [thisisrick25/resume](https://github.com/thisisrick25/resume)<br>
 2. ⬆️ Pushed undefined commit(s) to [thisisrick25/resume](https://github.com/thisisrick25/resume)<br>
-3. ⭐ Starred [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)<br>
-4. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-5. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-6. 💪 Opened PR [#173](undefined) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+3. ⬆️ Pushed undefined commit(s) to [thisisrick25/resume](https://github.com/thisisrick25/resume)<br>
+4. ⬆️ Pushed undefined commit(s) to [thisisrick25/resume](https://github.com/thisisrick25/resume)<br>
+5. ⬆️ Pushed undefined commit(s) to [thisisrick25/resume](https://github.com/thisisrick25/resume)<br>
+6. ⭐ Starred [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)<br>
 7. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 8. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
-9. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
+9. 💪 Opened PR [#173](undefined) in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 10. ⬆️ Pushed undefined commit(s) to [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)<br>
 <!--RECENT_ACTIVITY:end-->
 
