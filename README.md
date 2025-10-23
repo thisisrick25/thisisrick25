@@ -22,7 +22,13 @@
 <td width="50%">
 
 <!-- NOTABLE-CONTRIBUTIONS:START -->
-<!-- This content will be replaced by the `notable-contributions` plugin -->
+| Notable Contribution |
+|---------------------|
+| **[Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329)** in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io) |
+| **[[ENH] add tests for TSC `evaluate` parallelization backends ](https://github.com/sktime/sktime/pull/8737)** in [sktime/sktime](https://github.com/sktime/sktime) |
+| **[fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235)** in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
+| **[Update docstring format](https://github.com/brainglobe/brainglobe-atlasapi/pull/584)** in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi) |
+| **[docs(brainglobe-space): standardize import alias in examples](https://github.com/brainglobe/brainglobe.github.io/pull/350)** in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io) |
 <!-- NOTABLE-CONTRIBUTIONS:END -->
 </td>
   </tr>
