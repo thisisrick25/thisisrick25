@@ -8,7 +8,11 @@
 ## Recent Pull Requests
 
 <!-- PRS:START -->
-<!-- This content will be replaced by the `prs` plugin -->
+- [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179)
+- [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173)
+- [Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172)
+- [Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15)
+- [refactor: migrate codebase to typescript](https://github.com/thisisrick25/readme-engine/pull/12)
 <!-- PRS:END -->
 
 ## Languages and Tools
