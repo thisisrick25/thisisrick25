@@ -15,4 +15,4 @@ jobs:
         uses: thisisrick25/readme-engine@v2 # Use the latest major version
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PLUGINS: prs
+          PLUGINS: prs, notable-contributions
