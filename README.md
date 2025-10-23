@@ -4,8 +4,6 @@
   <tr>
     <td width="50%">
 
-## Recent Pull Requests
-
 <!-- PRS:START -->
 | Recent Pull Request |
 |--------------|
@@ -23,7 +21,6 @@
 </td>
 <td width="50%">
 
-## Notable Contributions
 <!-- NOTABLE-CONTRIBUTIONS:START -->
 <!-- This content will be replaced by the `notable-contributions` plugin -->
 <!-- NOTABLE-CONTRIBUTIONS:END -->
