@@ -8,11 +8,13 @@
 ## Recent Pull Requests
 
 <!-- PRS:START -->
-- [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179)
-- [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173)
-- [Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172)
-- [Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15)
-- [refactor: migrate codebase to typescript](https://github.com/thisisrick25/readme-engine/pull/12)
+| Recent Pull Request |
+|--------------|
+| **[Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179)** in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me) |
+| **[refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173)** in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me) |
+| **[Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172)** in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me) |
+| **[Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15)** in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine) |
+| **[refactor: migrate codebase to typescript](https://github.com/thisisrick25/readme-engine/pull/12)** in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine) |
 <!-- PRS:END -->
 
 ## Languages and Tools
