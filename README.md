@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
-- [Optimize post view count loading and updates](https://github.com/thisisrick25/swapnaneel.me/pull/180) - [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-- [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179) - [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-- [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173) - [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-- [Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172) - [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)
-- [Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15) - [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)
+- [Optimize post view count loading and updates](https://github.com/thisisrick25/swapnaneel.me/pull/180) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
+- [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
+- [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
+- [Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
+- [Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
@@ -20,11 +20,11 @@
 <!-- NOTABLE-CONTRIBUTIONS:START -->
 ### Notable Contributions
 
-- [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) - [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)
-- [[ENH] add tests for TSC `evaluate` parallelization backends ](https://github.com/sktime/sktime/pull/8737) - [sktime/sktime](https://github.com/sktime/sktime)
-- [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-- [Update docstring format](https://github.com/brainglobe/brainglobe-atlasapi/pull/584) - [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)
-- [docs(brainglobe-space): standardize import alias in examples](https://github.com/brainglobe/brainglobe.github.io/pull/350) - [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)
+- [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
+- [[ENH] add tests for TSC `evaluate` parallelization backends ](https://github.com/sktime/sktime/pull/8737) ***in [sktime/sktime](https://github.com/sktime/sktime)***
+- [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) ***in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)***
+- [Update docstring format](https://github.com/brainglobe/brainglobe-atlasapi/pull/584) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
+- [docs(brainglobe-space): standardize import alias in examples](https://github.com/brainglobe/brainglobe.github.io/pull/350) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
 <!-- NOTABLE-CONTRIBUTIONS:END -->
 
 </td>
