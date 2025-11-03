@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [Refactor UI styles and enhance loading components](https://github.com/thisisrick25/swapnaneel.me/pull/183) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Optimize post view count loading and updates](https://github.com/thisisrick25/swapnaneel.me/pull/180) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Update dependencies and simplify database connection handling](https://github.com/thisisrick25/swapnaneel.me/pull/172) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
-- [Update package metadata, enhance documentation, and improve README](https://github.com/thisisrick25/readme-engine/pull/15) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
