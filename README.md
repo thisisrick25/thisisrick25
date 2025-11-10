@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [Add contributions page with GitHub and GitLab support](https://github.com/thisisrick25/swapnaneel.me/pull/184) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Add workflow for generating contribution summaries](https://github.com/thisisrick25/brain/pull/1) ***in [thisisrick25/brain](https://github.com/thisisrick25/brain)***
 - [Refactor UI styles and enhance loading components](https://github.com/thisisrick25/swapnaneel.me/pull/183) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Optimize post view count loading and updates](https://github.com/thisisrick25/swapnaneel.me/pull/180) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
-- [refactor: reorganize imports and enhance Neon database configuration](https://github.com/thisisrick25/swapnaneel.me/pull/173) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 <!-- PRS:END -->
 
 </td>
