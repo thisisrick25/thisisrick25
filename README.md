@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
 - [Add contributions page with GitHub and GitLab support](https://github.com/thisisrick25/swapnaneel.me/pull/184) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Add workflow for generating contribution summaries](https://github.com/thisisrick25/brain/pull/1) ***in [thisisrick25/brain](https://github.com/thisisrick25/brain)***
 - [Refactor UI styles and enhance loading components](https://github.com/thisisrick25/swapnaneel.me/pull/183) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Optimize post view count loading and updates](https://github.com/thisisrick25/swapnaneel.me/pull/180) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
-- [Add content view tracking API and improve loading experience](https://github.com/thisisrick25/swapnaneel.me/pull/179) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 <!-- PRS:END -->
 
 </td>
@@ -20,11 +20,11 @@
 <!-- NOTABLE-CONTRIBUTIONS:START -->
 ### Notable Contributions
 
+- [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
 - [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
 - [[ENH] add tests for TSC `evaluate` parallelization backends ](https://github.com/sktime/sktime/pull/8737) ***in [sktime/sktime](https://github.com/sktime/sktime)***
 - [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) ***in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)***
 - [Update docstring format](https://github.com/brainglobe/brainglobe-atlasapi/pull/584) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
-- [docs(brainglobe-space): standardize import alias in examples](https://github.com/brainglobe/brainglobe.github.io/pull/350) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
 <!-- NOTABLE-CONTRIBUTIONS:END -->
 
 </td>
