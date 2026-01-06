@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [Add new components and enhance layout for improved user experience](https://github.com/thisisrick25/swapnaneel.me/pull/199) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
 - [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
 - [Add contributions page with GitHub and GitLab support](https://github.com/thisisrick25/swapnaneel.me/pull/184) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [Add workflow for generating contribution summaries](https://github.com/thisisrick25/brain/pull/1) ***in [thisisrick25/brain](https://github.com/thisisrick25/brain)***
-- [Refactor UI styles and enhance loading components](https://github.com/thisisrick25/swapnaneel.me/pull/183) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 <!-- PRS:END -->
 
 </td>
