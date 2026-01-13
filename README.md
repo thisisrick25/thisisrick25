@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [Add framer-motion for enhanced animations and dynamic endpoints](https://github.com/thisisrick25/swapnaneel.me/pull/200) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [feat: add validation for duplicate structure acronyms](https://github.com/brainglobe/brainglobe-atlasapi/pull/734) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
 - [Add new components and enhance layout for improved user experience](https://github.com/thisisrick25/swapnaneel.me/pull/199) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 - [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
 - [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
-- [Add contributions page with GitHub and GitLab support](https://github.com/thisisrick25/swapnaneel.me/pull/184) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
 <!-- PRS:END -->
 
 </td>
