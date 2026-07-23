@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): render all free-tier endpoints in combined block](https://github.com/thisisrick25/readme-engine/pull/29) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(author): support commit author attribution](https://github.com/thisisrick25/readme-engine/pull/26) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 - [test(server): runnable suite + port/status coverage](https://github.com/thisisrick25/LLMLaunchpad/pull/4) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
-- [feat(llama): auto-select free port when preferred is taken](https://github.com/thisisrick25/LLMLaunchpad/pull/3) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
-- [fix(status): report real llama and litellm running state](https://github.com/thisisrick25/LLMLaunchpad/pull/2) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -32,9 +32,31 @@
 </table>
 
 <!-- WAKATIME:START -->
-### WakaTime (Last 30 Days)
+### WakaTime
 
-No WakaTime activity recorded in the last 30 days.
+#### Last 30 Days
+
+**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
+
+_Languages_
+
+```text
+Markdown    ████████░░░░░░░░░░░░   37.5%  16 hrs 24 mins
+TypeScript  ████░░░░░░░░░░░░░░░░   18.9%  8 hrs 16 mins
+Python      ███░░░░░░░░░░░░░░░░░   17.2%  7 hrs 32 mins
+Other       ██░░░░░░░░░░░░░░░░░░    9.5%  4 hrs 9 mins
+JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  3 hrs 2 mins
+```
+
+
+_Editors_
+
+```text
+Opencode Cli    █████████████░░░░░░░   62.9%  27 hrs 30 mins
+VS Code         ███████░░░░░░░░░░░░░   36.4%  15 hrs 54 mins
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.6%  16 mins
+Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
+```
 <!-- WAKATIME:END -->
 
 ## Languages and Tools
