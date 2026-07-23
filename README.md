@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
-- [Add framer-motion for enhanced animations and dynamic endpoints](https://github.com/thisisrick25/swapnaneel.me/pull/200) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
-- [feat: add validation for duplicate structure acronyms](https://github.com/brainglobe/brainglobe-atlasapi/pull/734) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
-- [Add new components and enhance layout for improved user experience](https://github.com/thisisrick25/swapnaneel.me/pull/199) ***in [thisisrick25/swapnaneel.me](https://github.com/thisisrick25/swapnaneel.me)***
-- [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
-- [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
+- [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
+- [test(server): runnable suite + port/status coverage](https://github.com/thisisrick25/LLMLaunchpad/pull/4) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
+- [feat(llama): auto-select free port when preferred is taken](https://github.com/thisisrick25/LLMLaunchpad/pull/3) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
+- [fix(status): report real llama and litellm running state](https://github.com/thisisrick25/LLMLaunchpad/pull/2) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
+- [feat(chat): add search, stop-generation, and error handling](https://github.com/thisisrick25/LLMLaunchpad/pull/1) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -20,11 +20,11 @@
 <!-- NOTABLE-CONTRIBUTIONS:START -->
 ### Notable Contributions
 
+- [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) ***in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)***
 - [feat: add validation for duplicate structure acronyms](https://github.com/brainglobe/brainglobe-atlasapi/pull/734) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
 - [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
 - [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
 - [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
-- [[ENH] add tests for TSC `evaluate` parallelization backends ](https://github.com/sktime/sktime/pull/8737) ***in [sktime/sktime](https://github.com/sktime/sktime)***
 <!-- NOTABLE-CONTRIBUTIONS:END -->
 
 </td>
