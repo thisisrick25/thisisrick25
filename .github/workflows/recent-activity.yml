@@ -18,3 +18,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PLUGINS: prs, notable-contributions, wakatime
+          COMMIT_AUTHOR_NAME: thisisrick25
+          COMMIT_AUTHOR_EMAIL: swapnaneel06@gmail.com
