@@ -13,6 +13,8 @@ jobs:
 
       - name: Update README with readme-engine
         uses: thisisrick25/readme-engine@v2 # Use the latest major version
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PLUGINS: prs, notable-contributions
+          PLUGINS: prs, notable-contributions, wakatime
