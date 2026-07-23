@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 - [test(server): runnable suite + port/status coverage](https://github.com/thisisrick25/LLMLaunchpad/pull/4) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 - [feat(llama): auto-select free port when preferred is taken](https://github.com/thisisrick25/LLMLaunchpad/pull/3) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 - [fix(status): report real llama and litellm running state](https://github.com/thisisrick25/LLMLaunchpad/pull/2) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
-- [feat(chat): add search, stop-generation, and error handling](https://github.com/thisisrick25/LLMLaunchpad/pull/1) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -32,6 +32,9 @@
 </table>
 
 <!-- WAKATIME:START -->
+### WakaTime (Last 30 Days)
+
+No WakaTime activity recorded in the last 30 days.
 <!-- WAKATIME:END -->
 
 ## Languages and Tools
