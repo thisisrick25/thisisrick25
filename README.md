@@ -2,17 +2,6 @@
 
 <table>
 <tr>
-<td valign="top" colspan="2">
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-### WakaTime
-
-</td>
-</tr>
-<tr>
 <td valign="top">
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -29,10 +18,6 @@
 
 **Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 11 mins
 <!-- WAKATIME_ALLTIMETOTAL:END -->
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
