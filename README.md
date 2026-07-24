@@ -2,6 +2,36 @@
 
 <table>
 <tr>
+<td valign="top" colspan="2">
+
+### WakaTime
+
+<table>
+<tr>
+<td valign="top">
+
+<!-- WAKATIME_LAST30TOTAL:START -->
+#### Last 30 Days
+
+**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
+<!-- WAKATIME_LAST30TOTAL:END -->
+
+</td>
+<td valign="top">
+
+<!-- WAKATIME_ALLTIMETOTAL:START -->
+#### All Time
+
+**Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 11 mins
+<!-- WAKATIME_ALLTIMETOTAL:END -->
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
 <td valign="top">
 
 <!-- PRS:START -->
@@ -26,31 +56,6 @@
 - [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
 - [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
 <!-- NOTABLE-CONTRIBUTIONS:END -->
-
-</td>
-</tr>
-</table>
-
-### WakaTime
-
-<table>
-<tr>
-<td valign="top">
-
-<!-- WAKATIME_LAST30TOTAL:START -->
-#### Last 30 Days
-
-**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
-<!-- WAKATIME_LAST30TOTAL:END -->
-
-</td>
-<td valign="top">
-
-<!-- WAKATIME_ALLTIMETOTAL:START -->
-#### All Time
-
-**Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 11 mins
-<!-- WAKATIME_ALLTIMETOTAL:END -->
 
 </td>
 </tr>
