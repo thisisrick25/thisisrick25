@@ -12,16 +12,13 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="42%">
 
 <!-- WAKATIME_LAST30TOTAL:START -->
 #### Last 30 Days
 
 **Total:** 40 hrs 59 mins • **Daily average:** 1 hr 38 mins
 <!-- WAKATIME_LAST30TOTAL:END -->
-
-</td>
-<td valign="top">
 
 <!-- WAKATIME_ALLTIMETOTAL:START -->
 #### All Time
@@ -30,7 +27,16 @@
 <!-- WAKATIME_ALLTIMETOTAL:END -->
 
 </td>
+<td valign="top">
+
+<!-- WAKATIME_LAST30LANGUAGES:START -->
+<!-- WAKATIME_LAST30LANGUAGES:END -->
+
+</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td valign="top">
 
@@ -63,4 +69,9 @@
 
 ## Tech
 
-TypeScript, Python, JavaScript, Node.js, Next.js, Bash
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
