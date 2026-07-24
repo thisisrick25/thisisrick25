@@ -1,4 +1,14 @@
-![thisisrick25](https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">Hi, I'm Rick 👋</h1>
+
+<p align="center">Software engineer building tools & open source</p>
+
+<p align="center">
+  <a href="https://swapnaneel.me">swapnaneel.me</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
+</p>
 
 <table>
 <tr>
@@ -10,6 +20,9 @@
 **Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
 <!-- WAKATIME_LAST30TOTAL:END -->
 
+<!-- WAKATIME_LAST30LANGUAGES:START -->
+<!-- WAKATIME_LAST30LANGUAGES:END -->
+
 </td>
 <td valign="top">
 
@@ -18,6 +31,9 @@
 
 **Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 11 mins
 <!-- WAKATIME_ALLTIMETOTAL:END -->
+
+<!-- WAKATIME_ALLTIMELANGUAGES:START -->
+<!-- WAKATIME_ALLTIMELANGUAGES:END -->
 
 </td>
 </tr>
