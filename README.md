@@ -1,7 +1,5 @@
-Software engineer building tools & open source · [swapnaneel.me](https://swapnaneel.me)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
+  Software engineer building tools & open source · <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 </p>
 
 <table>
