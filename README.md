@@ -4,9 +4,14 @@
 <tr>
 <td valign="top" colspan="2">
 
+<table>
+<tr>
+<td colspan="2" align="center">
+
 ### WakaTime
 
-<table>
+</td>
+</tr>
 <tr>
 <td valign="top">
 
