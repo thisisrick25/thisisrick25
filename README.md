@@ -26,6 +26,12 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.4%
 </pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
+<!-- WAKATIME_LAST30EDITORS:START -->
+<!-- WAKATIME_LAST30EDITORS:END -->
+
+<!-- WAKATIME_LAST30CATEGORIES:START -->
+<!-- WAKATIME_LAST30CATEGORIES:END -->
+
 <table>
 <tr>
 <td valign="top">
