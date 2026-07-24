@@ -59,34 +59,6 @@ Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    
 ```
 
 
-#### All Time
-
-**Total:** 1,304 hrs 51 mins
-
-_Languages_
-
-```text
-Other       ████████░░░░░░░░░░░░   42.4%  958 hrs 46 mins
-TypeScript  ███░░░░░░░░░░░░░░░░░   16.6%  375 hrs 58 mins
-Python      ██░░░░░░░░░░░░░░░░░░    8.7%  197 hrs 28 mins
-JavaScript  █░░░░░░░░░░░░░░░░░░░    7.3%  164 hrs 15 mins
-Markdown    █░░░░░░░░░░░░░░░░░░░    3.9%  89 hrs 4 mins
-```
-
-
-_Editors_
-
-```text
-VS Code       ███████████░░░░░░░░░   52.9%  1,196 hrs 13 mins
-Browser       ████████░░░░░░░░░░░░   41.3%  934 hrs 22 mins
-Antigravity   █░░░░░░░░░░░░░░░░░░░    3.6%  82 hrs 43 mins
-Opencode Cli  ░░░░░░░░░░░░░░░░░░░░    1.3%  29 hrs 28 mins
-Cursor        ░░░░░░░░░░░░░░░░░░░░    0.9%  20 hrs 31 mins
-```
-
-
-**All-Time Total:** 2,265 hrs 27 mins (since Thu Sep 3rd 2020)
-
 #### Last Year Languages
 
 ```text
@@ -98,15 +70,7 @@ YAML        █░░░░░░░░░░░░░░░░░░░    5.4%
 ```
 
 
-#### Last Year Editors
-
-```text
-VS Code         ███████████████░░░░░   77.4%  386h 16m
-Antigravity     ███░░░░░░░░░░░░░░░░░   16.6%  82h 44m
-Opencode Cli    █░░░░░░░░░░░░░░░░░░░    5.9%  29h 29m
-OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.1%  16m
-Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.0%  2m
-```
+**All-Time Total:** 2,265 hrs 56 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME:END -->
 
 ## Languages and Tools
