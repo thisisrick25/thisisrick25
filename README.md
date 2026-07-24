@@ -30,6 +30,15 @@
 <td valign="top">
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
+#### Last 30 Days — Languages
+
+<pre>
+Markdown    ████████░░░░░░░░░░░░   40.1%  18 hrs [AI 85% · Manual 15%]
+Python      ███░░░░░░░░░░░░░░░░░   16.8%  7 hrs 32 mins [AI 75% · Manual 25%]
+TypeScript  ███░░░░░░░░░░░░░░░░░   16.2%  7 hrs 15 mins [AI 100% · Manual 0%]
+Other       ██░░░░░░░░░░░░░░░░░░    8.6%  3 hrs 52 mins [AI 100% · Manual 0%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.4%  2 hrs 52 mins [AI 85% · Manual 15%]
+</pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 </td>
