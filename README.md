@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): split insights into separate language and editor sections](https://github.com/thisisrick25/readme-engine/pull/32) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): render all free-tier endpoints in combined block](https://github.com/thisisrick25/readme-engine/pull/29) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(author): support commit author attribution](https://github.com/thisisrick25/readme-engine/pull/26) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
-- [test(server): runnable suite + port/status coverage](https://github.com/thisisrick25/LLMLaunchpad/pull/4) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
