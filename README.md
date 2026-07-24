@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): split sections into independent per-facet keys](https://github.com/thisisrick25/readme-engine/pull/35) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): split insights into separate language and editor sections](https://github.com/thisisrick25/readme-engine/pull/32) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): render all free-tier endpoints in combined block](https://github.com/thisisrick25/readme-engine/pull/29) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(author): support commit author attribution](https://github.com/thisisrick25/readme-engine/pull/26) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -38,39 +38,39 @@
 
 **Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
 
-_Languages_
+#### Last 30 Days — Languages
 
 ```text
-Markdown    ████████░░░░░░░░░░░░   37.5%  16 hrs 24 mins
-TypeScript  ████░░░░░░░░░░░░░░░░   18.9%  8 hrs 16 mins
-Python      ███░░░░░░░░░░░░░░░░░   17.2%  7 hrs 32 mins
-Other       ██░░░░░░░░░░░░░░░░░░    9.5%  4 hrs 9 mins
-JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  3 hrs 2 mins
+Markdown    ████████░░░░░░░░░░░░   37.5%  16 hrs 24 mins [AI 85% · Manual 15%]
+TypeScript  ████░░░░░░░░░░░░░░░░   18.9%  8 hrs 16 mins [AI 100% · Manual 0%]
+Python      ███░░░░░░░░░░░░░░░░░   17.2%  7 hrs 32 mins [AI 75% · Manual 25%]
+Other       ██░░░░░░░░░░░░░░░░░░    9.5%  4 hrs 9 mins [AI 100% · Manual 0%]
+JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  3 hrs 2 mins [AI 81% · Manual 19%]
 ```
 
 
-_Editors_
+#### Last 30 Days — Editors
 
 ```text
-Opencode Cli    █████████████░░░░░░░   62.9%  27 hrs 30 mins
-VS Code         ███████░░░░░░░░░░░░░   36.4%  15 hrs 54 mins
-OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.6%  16 mins
-Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
+Opencode Cli    █████████████░░░░░░░   62.9%  27 hrs 30 mins [AI 100% · Manual 0%]
+VS Code         ███████░░░░░░░░░░░░░   36.4%  15 hrs 54 mins [AI 60% · Manual 40%]
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.6%  16 mins [AI 100% · Manual 0%]
+Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
 ```
 
 
-#### Last Year Languages
+#### Last Year — Languages
 
 ```text
-TypeScript  ██████░░░░░░░░░░░░░░   32.4%  161h 25m
-Python      ████░░░░░░░░░░░░░░░░   18.9%  94h 18m
-Markdown    ██░░░░░░░░░░░░░░░░░░   12.0%  59h 40m
-JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39h 15m
-YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26h 54m
+TypeScript  ██████░░░░░░░░░░░░░░   32.4%  161 hrs 24 mins [AI 20% · Manual 80%]
+Python      ████░░░░░░░░░░░░░░░░   18.9%  94 hrs 17 mins [AI 22% · Manual 78%]
+Markdown    ██░░░░░░░░░░░░░░░░░░   12.0%  59 hrs 40 mins [AI 46% · Manual 54%]
+JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39 hrs 15 mins [AI 33% · Manual 67%]
+YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26 hrs 53 mins [AI 6% · Manual 94%]
 ```
 
 
-**All-Time Total:** 2,265 hrs 56 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,266 hrs 48 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME:END -->
 
 ## Languages and Tools
