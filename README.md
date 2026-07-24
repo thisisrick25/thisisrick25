@@ -37,21 +37,18 @@
 <tr>
 <td valign="top" width="50%">
 
-<!-- WAKATIME_LAST30LANGUAGES:START -->
-<!-- WAKATIME_LAST30LANGUAGES:END -->
+<!-- WAKATIME_LAST30TOTAL:START -->
+<!-- WAKATIME_LAST30TOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
 
-<!-- WAKATIME_ALLTIMELANGUAGES:START -->
-<!-- WAKATIME_ALLTIMELANGUAGES:END -->
+<!-- WAKATIME_SINCETODAY:START -->
+<!-- WAKATIME_SINCETODAY:END -->
 
 </td>
 </tr>
 </table>
-
-<!-- WAKATIME_SINCETODAY:START -->
-<!-- WAKATIME_SINCETODAY:END -->
 
 ## Languages and Tools
 
