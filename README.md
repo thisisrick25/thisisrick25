@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 <!-- WAKATIME_LAST30TOTAL:START -->
 #### Last 30 Days
@@ -44,7 +44,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 <!-- WAKATIME_ALLTIMETOTAL:START -->
 #### All Time
