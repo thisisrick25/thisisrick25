@@ -31,7 +31,7 @@
 </tr>
 </table>
 
-## WakaTime
+### WakaTime
 
 <table>
 <tr>
@@ -46,9 +46,11 @@
 </td>
 <td valign="top" width="50%">
 
-<!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,267 hrs 21 mins (since Thu Sep 3rd 2020)
-<!-- WAKATIME_SINCETODAY:END -->
+<!-- WAKATIME_ALLTIMETOTAL:START -->
+#### All Time
+
+**Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 4 mins
+<!-- WAKATIME_ALLTIMETOTAL:END -->
 
 </td>
 </tr>
