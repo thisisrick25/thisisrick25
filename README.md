@@ -3,6 +3,9 @@
 </p>
 
 <!-- WAKATIME_LAST7TOTAL:START -->
+#### Last 7 Days
+
+**Total:** 10 hrs 9 mins • **Daily average:** 2 hrs 1 min
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -18,6 +21,7 @@
 <!-- WAKATIME_ALLTIMETOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
+**All-Time Total:** 2,269 hrs 14 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
@@ -33,15 +37,43 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.4%
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 <!-- WAKATIME_LAST30EDITORS:START -->
+#### Last 30 Days — Editors
+
+<pre>
+Opencode Cli    ████████████░░░░░░░░   61.9%  27 hrs 45 mins [AI 100% · Manual 0%]
+VS Code         ███████░░░░░░░░░░░░░   37.4%  16 hrs 47 mins [AI 59% · Manual 41%]
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  17 mins [AI 100% · Manual 0%]
+Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
+</pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
+#### Last 30 Days — Categories
+
+<pre>
+AI Coding     █████████████████░░░   84.6%  37 hrs 58 mins
+Coding        ██░░░░░░░░░░░░░░░░░░    8.5%  3 hrs 48 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.7%  2 hrs 59 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
+</pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
+#### Last 30 Days — Best Day
+
+**4 hrs 29 mins** on 2026-07-24
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
 <!-- WAKATIME_LASTYEARLANGUAGES:START -->
+#### Last Year — Languages
+
+<pre>
+TypeScript  ██████░░░░░░░░░░░░░░   32.4%  161 hrs 24 mins [AI 20% · Manual 80%]
+Python      ████░░░░░░░░░░░░░░░░   18.9%  94 hrs 17 mins [AI 22% · Manual 78%]
+Markdown    ██░░░░░░░░░░░░░░░░░░   12.0%  59 hrs 40 mins [AI 46% · Manual 54%]
+JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39 hrs 15 mins [AI 33% · Manual 67%]
+YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26 hrs 53 mins [AI 6% · Manual 94%]
+</pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
 <table>
