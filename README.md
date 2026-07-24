@@ -17,10 +17,19 @@
 <!-- WAKATIME_LAST30TOTAL:START -->
 #### Last 30 Days
 
-**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
+**Total:** 40 hrs 59 mins • **Daily average:** 1 hr 38 mins
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
+#### Last 30 Days — Languages
+
+<pre>
+Markdown    ████████░░░░░░░░░░░░   40.1%  18 hrs [AI 85% · Manual 15%]
+Python      ███░░░░░░░░░░░░░░░░░   16.8%  7 hrs 32 mins [AI 75% · Manual 25%]
+TypeScript  ███░░░░░░░░░░░░░░░░░   16.2%  7 hrs 15 mins [AI 100% · Manual 0%]
+Other       ██░░░░░░░░░░░░░░░░░░    8.6%  3 hrs 52 mins [AI 100% · Manual 0%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.4%  2 hrs 52 mins [AI 85% · Manual 15%]
+</pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 </td>
@@ -29,10 +38,19 @@
 <!-- WAKATIME_ALLTIMETOTAL:START -->
 #### All Time
 
-**Total:** 1,304 hrs 51 mins • **Daily average:** 1 hr 11 mins
+**Total:** 1,309 hrs 21 mins • **Daily average:** 1 hr 11 mins
 <!-- WAKATIME_ALLTIMETOTAL:END -->
 
 <!-- WAKATIME_ALLTIMELANGUAGES:START -->
+#### All Time — Languages
+
+<pre>
+Other       ████████░░░░░░░░░░░░   42.3%  958 hrs 46 mins [AI 100% · Manual 0%]
+TypeScript  ███░░░░░░░░░░░░░░░░░   16.6%  376 hrs 19 mins [AI 9% · Manual 91%]
+Python      ██░░░░░░░░░░░░░░░░░░    8.7%  197 hrs 28 mins [AI 11% · Manual 89%]
+JavaScript  █░░░░░░░░░░░░░░░░░░░    7.2%  164 hrs 15 mins [AI 0% · Manual 100%]
+Markdown    █░░░░░░░░░░░░░░░░░░░    4.0%  90 hrs 49 mins [AI 32% · Manual 68%]
+</pre>
 <!-- WAKATIME_ALLTIMELANGUAGES:END -->
 
 </td>
