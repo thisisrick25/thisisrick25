@@ -1,14 +1,6 @@
-<h1 align="center">Hi, I'm Rick ðŸ‘‹</h1>
+# Rick
 
-<p align="center">Software engineer building tools & open source</p>
-
-<p align="center">
-  <a href="https://swapnaneel.me">swapnaneel.me</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
-</p>
+Software engineer building tools & open source · [swapnaneel.me](https://swapnaneel.me)
 
 <table>
 <tr>
