@@ -2,6 +2,9 @@
   Software engineer building tools & open source · <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 </p>
 
+<!-- WAKATIME_LAST7TOTAL:START -->
+<!-- WAKATIME_LAST7TOTAL:END -->
+
 <!-- WAKATIME_LAST30TOTAL:START -->
 #### Last 30 Days
 
@@ -13,6 +16,9 @@
 
 **Total:** 1,309 hrs 21 mins • **Daily average:** 1 hr 11 mins
 <!-- WAKATIME_ALLTIMETOTAL:END -->
+
+<!-- WAKATIME_SINCETODAY:START -->
+<!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
 #### Last 30 Days — Languages
@@ -31,6 +37,12 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.4%
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
 <!-- WAKATIME_LAST30CATEGORIES:END -->
+
+<!-- WAKATIME_LAST30BESTDAY:START -->
+<!-- WAKATIME_LAST30BESTDAY:END -->
+
+<!-- WAKATIME_LASTYEARLANGUAGES:START -->
+<!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
 <table>
 <tr>
