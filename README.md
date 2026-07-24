@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(core): per-section plugin markers via map return contract](https://github.com/thisisrick25/readme-engine/pull/41) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): split sections into independent per-facet keys](https://github.com/thisisrick25/readme-engine/pull/35) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): split insights into separate language and editor sections](https://github.com/thisisrick25/readme-engine/pull/32) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): render all free-tier endpoints in combined block](https://github.com/thisisrick25/readme-engine/pull/29) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(author): support commit author attribution](https://github.com/thisisrick25/readme-engine/pull/26) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -38,12 +38,16 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30TOTAL:START -->
+#### Last 30 Days
+
+**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
 
 <!-- WAKATIME_SINCETODAY:START -->
+**All-Time Total:** 2,267 hrs 21 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </td>
