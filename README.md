@@ -7,11 +7,11 @@
 <!-- PRS:START -->
 ### Recent Pull Requests
 
-- [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): split sections into independent per-facet keys](https://github.com/thisisrick25/readme-engine/pull/35) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): split insights into separate language and editor sections](https://github.com/thisisrick25/readme-engine/pull/32) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): render all free-tier endpoints in combined block](https://github.com/thisisrick25/readme-engine/pull/29) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(author): support commit author attribution](https://github.com/thisisrick25/readme-engine/pull/26) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): add WakaTime coding stats plugin](https://github.com/thisisrick25/readme-engine/pull/23) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [fix(server): guard gpu offload and time-box hw probes](https://github.com/thisisrick25/LLMLaunchpad/pull/5) ***in [thisisrick25/LLMLaunchpad](https://github.com/thisisrick25/LLMLaunchpad)***
 <!-- PRS:END -->
 
 </td>
@@ -31,48 +31,29 @@
 </tr>
 </table>
 
-<!-- WAKATIME:START -->
 ### WakaTime
 
-#### Last 30 Days
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Total:** 39 hrs 33 mins • **Daily average:** 1 hr 34 mins
+<!-- WAKATIME_LAST30LANGUAGES:START -->
+<!-- WAKATIME_LAST30LANGUAGES:END -->
 
-#### Last 30 Days — Languages
+</td>
+<td valign="top" width="50%">
 
-```text
-Markdown    ████████░░░░░░░░░░░░   37.5%  16 hrs 24 mins [AI 85% · Manual 15%]
-TypeScript  ████░░░░░░░░░░░░░░░░   18.9%  8 hrs 16 mins [AI 100% · Manual 0%]
-Python      ███░░░░░░░░░░░░░░░░░   17.2%  7 hrs 32 mins [AI 75% · Manual 25%]
-Other       ██░░░░░░░░░░░░░░░░░░    9.5%  4 hrs 9 mins [AI 100% · Manual 0%]
-JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  3 hrs 2 mins [AI 81% · Manual 19%]
-```
+<!-- WAKATIME_ALLTIMELANGUAGES:START -->
+<!-- WAKATIME_ALLTIMELANGUAGES:END -->
 
+</td>
+</tr>
+</table>
 
-#### Last 30 Days — Editors
-
-```text
-Opencode Cli    █████████████░░░░░░░   62.9%  27 hrs 30 mins [AI 100% · Manual 0%]
-VS Code         ███████░░░░░░░░░░░░░   36.4%  15 hrs 54 mins [AI 60% · Manual 40%]
-OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.6%  16 mins [AI 100% · Manual 0%]
-Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
-```
-
-
-#### Last Year — Languages
-
-```text
-TypeScript  ██████░░░░░░░░░░░░░░   32.4%  161 hrs 24 mins [AI 20% · Manual 80%]
-Python      ████░░░░░░░░░░░░░░░░   18.9%  94 hrs 17 mins [AI 22% · Manual 78%]
-Markdown    ██░░░░░░░░░░░░░░░░░░   12.0%  59 hrs 40 mins [AI 46% · Manual 54%]
-JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39 hrs 15 mins [AI 33% · Manual 67%]
-YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26 hrs 53 mins [AI 6% · Manual 94%]
-```
-
-
-**All-Time Total:** 2,266 hrs 48 mins (since Thu Sep 3rd 2020)
-<!-- WAKATIME:END -->
+<!-- WAKATIME_SINCETODAY:START -->
+<!-- WAKATIME_SINCETODAY:END -->
 
 ## Languages and Tools
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
