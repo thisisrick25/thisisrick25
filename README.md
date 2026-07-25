@@ -3,28 +3,26 @@
 </p>
 
 <!-- WAKATIME_TODAY:START -->
-**Today:** 1 hr 25 mins
+**Today:** 1 min
 <!-- WAKATIME_TODAY:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-#### Last 30 Days
-
-**Total:** 40 hrs 59 mins • **Daily average:** 1 hr 38 mins
+**Last 30 Days** — Total: 40 hrs 11 mins • Daily average: 1 hr 36 mins
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,268 hrs 7 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,270 hrs 24 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
 #### Last 30 Days — Languages
 
 <pre>
-Markdown    ████████░░░░░░░░░░░░   40.1%  18 hrs [AI 85% · Manual 15%]
-Python      ███░░░░░░░░░░░░░░░░░   16.8%  7 hrs 32 mins [AI 75% · Manual 25%]
-TypeScript  ███░░░░░░░░░░░░░░░░░   16.2%  7 hrs 15 mins [AI 100% · Manual 0%]
-Other       ██░░░░░░░░░░░░░░░░░░    8.6%  3 hrs 52 mins [AI 100% · Manual 0%]
-YAML        █░░░░░░░░░░░░░░░░░░░    6.4%  2 hrs 52 mins [AI 85% · Manual 15%]
+Markdown    █████████░░░░░░░░░░░   43.2%  19 hrs 4 mins [AI 86% · Manual 14%]
+Python      ███░░░░░░░░░░░░░░░░░   17.1%  7 hrs 32 mins [AI 75% · Manual 25%]
+TypeScript  ███░░░░░░░░░░░░░░░░░   12.5%  5 hrs 31 mins [AI 100% · Manual 0%]
+Other       ██░░░░░░░░░░░░░░░░░░    8.9%  3 hrs 55 mins [AI 100% · Manual 0%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.6%  2 hrs 54 mins [AI 91% · Manual 9%]
 </pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
@@ -32,17 +30,15 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.4%
 #### Last 30 Days — Categories
 
 <pre>
-AI Coding     █████████████████░░░   84.6%  37 hrs 58 mins
-Coding        ██░░░░░░░░░░░░░░░░░░    8.5%  3 hrs 48 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.7%  2 hrs 59 mins
+AI Coding     █████████████████░░░   84.8%  37 hrs 22 mins
+Coding        ██░░░░░░░░░░░░░░░░░░    8.3%  3 hrs 38 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.8%  2 hrs 59 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
-#### Last 30 Days — Best Day
-
-**4 hrs 29 mins** on 2026-07-24
+**Last 30 Days Best Day** — 4 hrs 29 mins on 2026-07-24
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
 <table>
@@ -52,11 +48,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(core): per-section plugin markers via map return contract](https://github.com/thisisrick25/readme-engine/pull/41) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): split sections into independent per-facet keys](https://github.com/thisisrick25/readme-engine/pull/35) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): split insights into separate language and editor sections](https://github.com/thisisrick25/readme-engine/pull/32) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
