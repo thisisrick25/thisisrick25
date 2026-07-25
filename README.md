@@ -7,11 +7,11 @@
 <!-- WAKATIME_TODAY:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days** — Total: 40 hrs 11 mins • Daily average: 1 hr 36 mins
+**Last 30 Days:** 40 hrs 11 mins total • 1 hr 36 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,270 hrs 24 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,270 hrs 32 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
@@ -38,7 +38,7 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
-**Last 30 Days Best Day** — 4 hrs 29 mins on 2026-07-24
+**Last 30 Days Best Day:** 4 hrs 29 mins on 2026-07-24
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
 <table>
@@ -48,11 +48,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(core): per-section plugin markers via map return contract](https://github.com/thisisrick25/readme-engine/pull/41) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): split sections into independent per-facet keys](https://github.com/thisisrick25/readme-engine/pull/35) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
