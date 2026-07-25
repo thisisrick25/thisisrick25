@@ -3,7 +3,7 @@
 </p>
 
 <!-- WAKATIME_TODAY:START -->
-**Today:** 1 min
+**Today:** 54 mins
 <!-- WAKATIME_TODAY:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -11,11 +11,11 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,270 hrs 32 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,270 hrs 43 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
-#### Last 30 Days — Languages
+**Last 30 Days: Languages**
 
 <pre>
 Markdown    █████████░░░░░░░░░░░   43.2%  19 hrs 4 mins [AI 86% · Manual 14%]
@@ -27,7 +27,7 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.6%
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
-#### Last 30 Days — Categories
+**Last 30 Days: Categories**
 
 <pre>
 AI Coding     █████████████████░░░   84.8%  37 hrs 22 mins
@@ -48,11 +48,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(core): per-section plugin markers via map return contract](https://github.com/thisisrick25/readme-engine/pull/41) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): add time windows, categories, best-day and AI/manual split](https://github.com/thisisrick25/readme-engine/pull/38) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
