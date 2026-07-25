@@ -5,7 +5,7 @@
 <!-- WAKATIME_LAST7TOTAL:START -->
 #### Last 7 Days
 
-**Total:** 10 hrs 9 mins • **Daily average:** 2 hrs 1 min
+**Total:** 13 hrs 21 mins • **Daily average:** 2 hrs 40 mins
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -68,11 +68,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 #### Last Year — Languages
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   32.4%  161 hrs 24 mins [AI 20% · Manual 80%]
-Python      ████░░░░░░░░░░░░░░░░   18.9%  94 hrs 17 mins [AI 22% · Manual 78%]
-Markdown    ██░░░░░░░░░░░░░░░░░░   12.0%  59 hrs 40 mins [AI 46% · Manual 54%]
-JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39 hrs 15 mins [AI 33% · Manual 67%]
-YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26 hrs 53 mins [AI 6% · Manual 94%]
+TypeScript  ██████░░░░░░░░░░░░░░   32.1%  161 hrs 46 mins [AI 20% · Manual 80%]
+Python      ████░░░░░░░░░░░░░░░░   18.7%  94 hrs 17 mins [AI 22% · Manual 78%]
+Markdown    ██░░░░░░░░░░░░░░░░░░   12.2%  61 hrs 26 mins [AI 47% · Manual 53%]
+JSON        ██░░░░░░░░░░░░░░░░░░    7.8%  39 hrs 15 mins [AI 33% · Manual 67%]
+YAML        █░░░░░░░░░░░░░░░░░░░    5.8%  29 hrs 16 mins [AI 13% · Manual 87%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
