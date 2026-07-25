@@ -2,6 +2,12 @@
   Software engineer building tools & open source · <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 </p>
 
+<!-- WAKATIME_TODAY:START -->
+<!-- WAKATIME_TODAY:END -->
+
+<!-- WAKATIME_DURATIONS:START -->
+<!-- WAKATIME_DURATIONS:END -->
+
 <!-- WAKATIME_LAST7TOTAL:START -->
 #### Last 7 Days
 
@@ -23,6 +29,9 @@
 <!-- WAKATIME_SINCETODAY:START -->
 **All-Time Total:** 2,269 hrs 14 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
+
+<!-- WAKATIME_SUMMARIES:START -->
+<!-- WAKATIME_SUMMARIES:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
 #### Last 30 Days — Languages
@@ -75,6 +84,15 @@ JSON        ██░░░░░░░░░░░░░░░░░░    7.8%
 YAML        █░░░░░░░░░░░░░░░░░░░    5.8%  29 hrs 16 mins [AI 13% · Manual 87%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
+
+<!-- WAKATIME_PROJECTS:START -->
+<!-- WAKATIME_PROJECTS:END -->
+
+<!-- WAKATIME_LEADERS:START -->
+<!-- WAKATIME_LEADERS:END -->
+
+<!-- WAKATIME_GOALS:START -->
+<!-- WAKATIME_GOALS:END -->
 
 <table>
 <tr>
