@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 
 <!-- WAKATIME_LAST30TOTAL:START -->
 **Last 30 Days:** 40 hrs 11 mins total • 1 hr 36 mins/day
