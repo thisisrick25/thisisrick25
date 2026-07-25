@@ -1,10 +1,6 @@
 <p align="center">
-  Software engineer building tools & open source · <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
+  <a href="https://swapnaneel.me">swapnaneel.me</a> · <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 </p>
-
-<!-- WAKATIME_TODAY:START -->
-**Today:** 54 mins
-<!-- WAKATIME_TODAY:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
 **Last 30 Days:** 40 hrs 11 mins total • 1 hr 36 mins/day
@@ -13,6 +9,10 @@
 <!-- WAKATIME_SINCETODAY:START -->
 **All-Time Total:** 2,270 hrs 43 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
+
+<!-- WAKATIME_LAST30BESTDAY:START -->
+**Last 30 Days Best Day:** 4 hrs 29 mins on 2026-07-24
+<!-- WAKATIME_LAST30BESTDAY:END -->
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
 **Last 30 Days: Languages**
@@ -36,11 +36,6 @@ Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.
 Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
-
-<!-- WAKATIME_LAST30BESTDAY:START -->
-**Last 30 Days Best Day:** 4 hrs 29 mins on 2026-07-24
-<!-- WAKATIME_LAST30BESTDAY:END -->
-
 <table>
 <tr>
 <td valign="top">
