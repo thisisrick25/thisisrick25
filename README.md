@@ -5,7 +5,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,270 hrs 59 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,271 hrs 36 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
@@ -41,11 +41,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(core): per-section plugin markers via map return contract](https://github.com/thisisrick25/readme-engine/pull/41) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
