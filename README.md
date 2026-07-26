@@ -36,6 +36,9 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
+<!-- WAKATIME_LAST30AITOKENS:START -->
+<!-- WAKATIME_LAST30AITOKENS:END -->
+
 </td>
 </tr>
 <tr>
