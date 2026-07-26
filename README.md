@@ -74,11 +74,8 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 <!-- PRS:START -->
 ### Recent Pull Requests
@@ -91,7 +88,7 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:END -->
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 <!-- NOTABLE-CONTRIBUTIONS:START -->
 ### Notable Contributions
