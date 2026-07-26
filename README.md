@@ -13,7 +13,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,273 hrs 15 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,274 hrs 6 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
@@ -28,14 +28,16 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $52.96 total
+**Last 30 Days AI Cost:**
 
-| Model | Cost |
-| :--- | ---: |
-| Opus | $33.94 |
-| Opencode-Cli | $9.15 |
-| GPT | $8.86 |
-| Sonnet | $1.01 |
+**Total:** $52.96
+
+<pre>
+Opus          █████████████░░░░░░░  $33.94
+Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $9.15
+GPT           ███░░░░░░░░░░░░░░░░░  $8.86
+Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.01
+</pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
 </td>
@@ -73,35 +75,35 @@
 <!-- WAKATIME_LAST30LANGUAGES:START -->
 **Last 30 Days Languages:**
 
-| Language | Percent | Time | AI / Manual |
-| :--- | ---: | ---: | :--- |
-| Markdown | 43.2% | 19 hrs 4 mins | AI 86% · Manual 14% |
-| Python | 17.1% | 7 hrs 32 mins | AI 75% · Manual 25% |
-| TypeScript | 12.5% | 5 hrs 31 mins | AI 100% · Manual 0% |
-| Other | 8.9% | 3 hrs 55 mins | AI 100% · Manual 0% |
-| YAML | 6.6% | 2 hrs 54 mins | AI 91% · Manual 9% |
+<pre>
+Markdown    █████████░░░░░░░░░░░   43.2%  19 hrs 4 mins [AI 86% · Manual 14%]
+Python      ███░░░░░░░░░░░░░░░░░   17.1%  7 hrs 32 mins [AI 75% · Manual 25%]
+TypeScript  ███░░░░░░░░░░░░░░░░░   12.5%  5 hrs 31 mins [AI 100% · Manual 0%]
+Other       ██░░░░░░░░░░░░░░░░░░    8.9%  3 hrs 55 mins [AI 100% · Manual 0%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.6%  2 hrs 54 mins [AI 91% · Manual 9%]
+</pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
 **Last 30 Days Categories:**
 
-| Category | Percent | Time |
-| :--- | ---: | ---: |
-| AI Coding | 84.8% | 37 hrs 22 mins |
-| Coding | 8.3% | 3 hrs 38 mins |
-| Writing Docs | 6.8% | 2 hrs 59 mins |
-| Building | 0.2% | 5 mins |
+<pre>
+AI Coding     █████████████████░░░   84.8%  37 hrs 22 mins
+Coding        ██░░░░░░░░░░░░░░░░░░    8.3%  3 hrs 38 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.8%  2 hrs 59 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
+</pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30EDITORS:START -->
 **Last 30 Days Editors:**
 
-| Editor | Percent | Time | AI / Manual |
-| :--- | ---: | ---: | :--- |
-| Opencode Cli | 62.4% | 27 hrs 31 mins | AI 100% · Manual 0% |
-| VS Code | 36.9% | 16 hrs 15 mins | AI 59% · Manual 41% |
-| OpenCode | 0.7% | 17 mins | AI 100% · Manual 0% |
-| Unknown Editor | 0.1% | 1 min | AI 100% · Manual 0% |
+<pre>
+Opencode Cli    ████████████░░░░░░░░   62.4%  27 hrs 31 mins [AI 100% · Manual 0%]
+VS Code         ███████░░░░░░░░░░░░░   36.9%  16 hrs 15 mins [AI 59% · Manual 41%]
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  17 mins [AI 100% · Manual 0%]
+Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
+</pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
 
 ## Tech
