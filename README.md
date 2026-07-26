@@ -20,6 +20,10 @@
 **Last 30 Days Best Day:** 4 hrs 29 mins on 2026-07-24
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
+<!-- WAKATIME_LAST30AITOKENS:START -->
+**Last 30 Days AI Tokens:** 4.2M in • 1.5M out
+<!-- WAKATIME_LAST30AITOKENS:END -->
+
 </td>
 <td valign="top">
 
@@ -35,12 +39,6 @@ GPT           ███░░░░░░░░░░░░░░░░░  $8.8
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.01
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
-
-<!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days: AI Tokens**
-
-**Input:** 4.2M • **Output:** 1.5M
-<!-- WAKATIME_LAST30AITOKENS:END -->
 
 </td>
 </tr>
