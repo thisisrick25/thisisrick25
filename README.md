@@ -39,13 +39,6 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
----
-
-</td>
-</tr>
-<tr>
 <td valign="top">
 
 <!-- PRS:START -->
