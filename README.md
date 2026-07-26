@@ -1,5 +1,5 @@
+<div>
 <img align="left" src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
-
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
@@ -7,8 +7,7 @@
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
-
-<br clear="all" />
+</div>
 
 <table>
 <tr>
