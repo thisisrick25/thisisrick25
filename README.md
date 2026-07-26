@@ -5,31 +5,31 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 14 hrs 50 mins total • 2 hrs 28 mins/day
+**Last 7 Days:** 19 hrs 23 mins total • 2 hrs 46 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 40 hrs 11 mins total • 1 hr 36 mins/day
+**Last 30 Days:** 44 hrs 42 mins total • 1 hr 47 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,269 hrs 45 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,274 hrs 54 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
-**Last 30 Days Best Day:** 4 hrs 29 mins on 2026-07-24
+**Last 30 Days Best Day:** 4 hrs 38 mins on 2026-07-26
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 4.2M in • 1.5M out
+**Last 30 Days AI Tokens:** 4.3M in • 1.7M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AICHANGES:START -->
-**Last 30 Days AI Changes:** +21.8K / -1.3K AI • +8.6K / -7.6K human
+**Last 30 Days AI Changes:** +22.3K / -1.4K AI • +8.6K / -7.6K human
 <!-- WAKATIME_LAST30AICHANGES:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 72% AI • 28% human
+**Last 30 Days AI vs Human:** 59% AI • 41% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 </td>
@@ -38,11 +38,11 @@
 <!-- WAKATIME_LAST30AICOST:START -->
 **Last 30 Days AI Cost:**
 
-**Total:** $52.96
+**Total:** $58.13
 
 <pre>
-Opus          █████████████░░░░░░░  $33.94
-Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $9.15
+Opus          █████████████░░░░░░░  $38.66
+Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $9.61
 GPT           ███░░░░░░░░░░░░░░░░░  $8.86
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.01
 </pre>
@@ -56,11 +56,11 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [feat(wakatime): add AI changes, models and ratio facets](https://github.com/thisisrick25/readme-engine/pull/62) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): one-line AI tokens and colon-suffix section headings](https://github.com/thisisrick25/readme-engine/pull/59) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
@@ -84,11 +84,11 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 **Last 30 Days Languages:**
 
 <pre>
-Markdown    █████████░░░░░░░░░░░   43.2%  19 hrs 4 mins [AI 86% · Manual 14%]
-Python      ███░░░░░░░░░░░░░░░░░   17.1%  7 hrs 32 mins [AI 75% · Manual 25%]
-TypeScript  ███░░░░░░░░░░░░░░░░░   12.5%  5 hrs 31 mins [AI 100% · Manual 0%]
-Other       ██░░░░░░░░░░░░░░░░░░    8.9%  3 hrs 55 mins [AI 100% · Manual 0%]
-YAML        █░░░░░░░░░░░░░░░░░░░    6.6%  2 hrs 54 mins [AI 91% · Manual 9%]
+Markdown    █████████░░░░░░░░░░░   46.8%  22 hrs 47 mins [AI 87% · Manual 13%]
+Python      ███░░░░░░░░░░░░░░░░░   15.5%  7 hrs 32 mins [AI 75% · Manual 25%]
+TypeScript  ██░░░░░░░░░░░░░░░░░░   12.3%  6 hrs [AI 100% · Manual 0%]
+Other       ██░░░░░░░░░░░░░░░░░░    8.2%  3 hrs 58 mins [AI 100% · Manual 0%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.7%  3 hrs 14 mins [AI 93% · Manual 7%]
 </pre>
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
@@ -96,9 +96,9 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.6%
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     █████████████████░░░   84.8%  37 hrs 22 mins
-Coding        ██░░░░░░░░░░░░░░░░░░    8.3%  3 hrs 38 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.8%  2 hrs 59 mins
+AI Coding     █████████████████░░░   85.9%  41 hrs 49 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 37 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  3 hrs 8 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
@@ -107,9 +107,9 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 **Last 30 Days Editors:**
 
 <pre>
-Opencode Cli    ████████████░░░░░░░░   62.4%  27 hrs 31 mins [AI 100% · Manual 0%]
-VS Code         ███████░░░░░░░░░░░░░   36.9%  16 hrs 15 mins [AI 59% · Manual 41%]
-OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  17 mins [AI 100% · Manual 0%]
+Opencode Cli    █████████████░░░░░░░   63.4%  30 hrs 53 mins [AI 100% · Manual 0%]
+VS Code         ███████░░░░░░░░░░░░░   35.9%  17 hrs 27 mins [AI 61% · Manual 39%]
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  19 mins [AI 100% · Manual 0%]
 Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
@@ -118,10 +118,11 @@ Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    
 **Last 30 Days AI Models:**
 
 <pre>
-Opus          ████████████████████  15.8K
-GPT           ███████░░░░░░░░░░░░░░  5.4K
-Sonnet        ██░░░░░░░░░░░░░░░░░░░  1.4K
-Opencode-Cli  █░░░░░░░░░░░░░░░░░░░░  444
+Opus            ████████████████████  16.0K
+GPT             ███████░░░░░░░░░░░░░  5.4K
+Sonnet          ██░░░░░░░░░░░░░░░░░░  1.4K
+Opencode-Cli    █░░░░░░░░░░░░░░░░░░░  597
+Github-Copilot  ░░░░░░░░░░░░░░░░░░░░  215
 </pre>
 <!-- WAKATIME_LAST30AIMODELS:END -->
 
