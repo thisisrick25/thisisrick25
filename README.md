@@ -13,7 +13,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,271 hrs 46 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,272 hrs 43 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
@@ -37,6 +37,9 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 <!-- WAKATIME_LAST30AICOST:END -->
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
+**Last 30 Days: AI Tokens**
+
+**Input:** 4.2M • **Output:** 1.5M
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 </td>
