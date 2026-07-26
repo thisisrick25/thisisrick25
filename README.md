@@ -16,21 +16,9 @@
 **All-Time Total:** 2,274 hrs 54 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
-<!-- WAKATIME_LAST30BESTDAY:START -->
-**Last 30 Days Best Day:** 4 hrs 38 mins on 2026-07-26
-<!-- WAKATIME_LAST30BESTDAY:END -->
-
 <!-- WAKATIME_LAST30AITOKENS:START -->
 **Last 30 Days AI Tokens:** 4.3M in • 1.7M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
-
-<!-- WAKATIME_LAST30AICHANGES:START -->
-**Last 30 Days AI Changes:** +22.3K / -1.4K AI • +8.6K / -7.6K human
-<!-- WAKATIME_LAST30AICHANGES:END -->
-
-<!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 59% AI • 41% human
-<!-- WAKATIME_LAST30AIRATIO:END -->
 
 </td>
 <td valign="top" width="50%">
@@ -80,51 +68,12 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </tr>
 </table>
 
-<!-- WAKATIME_LAST30LANGUAGES:START -->
-**Last 30 Days Languages:**
+<!-- WAKATIME_LASTYEARLANGUAGES:START -->
+**Last Year Languages:**
 
 <pre>
-Markdown    █████████░░░░░░░░░░░   46.8%  22 hrs 47 mins [AI 87% · Manual 13%]
-Python      ███░░░░░░░░░░░░░░░░░   15.5%  7 hrs 32 mins [AI 75% · Manual 25%]
-TypeScript  ██░░░░░░░░░░░░░░░░░░   12.3%  6 hrs [AI 100% · Manual 0%]
-Other       ██░░░░░░░░░░░░░░░░░░    8.2%  3 hrs 58 mins [AI 100% · Manual 0%]
-YAML        █░░░░░░░░░░░░░░░░░░░    6.7%  3 hrs 14 mins [AI 93% · Manual 7%]
 </pre>
-<!-- WAKATIME_LAST30LANGUAGES:END -->
-
-<!-- WAKATIME_LAST30CATEGORIES:START -->
-**Last 30 Days Categories:**
-
-<pre>
-AI Coding     █████████████████░░░   85.9%  41 hrs 49 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 37 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  3 hrs 8 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
-</pre>
-<!-- WAKATIME_LAST30CATEGORIES:END -->
-
-<!-- WAKATIME_LAST30EDITORS:START -->
-**Last 30 Days Editors:**
-
-<pre>
-Opencode Cli    █████████████░░░░░░░   63.4%  30 hrs 53 mins [AI 100% · Manual 0%]
-VS Code         ███████░░░░░░░░░░░░░   35.9%  17 hrs 27 mins [AI 61% · Manual 39%]
-OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  19 mins [AI 100% · Manual 0%]
-Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
-</pre>
-<!-- WAKATIME_LAST30EDITORS:END -->
-
-<!-- WAKATIME_LAST30AIMODELS:START -->
-**Last 30 Days AI Models:**
-
-<pre>
-Opus            ████████████████████  16.0K
-GPT             ███████░░░░░░░░░░░░░  5.4K
-Sonnet          ██░░░░░░░░░░░░░░░░░░  1.4K
-Opencode-Cli    █░░░░░░░░░░░░░░░░░░░  597
-Github-Copilot  ░░░░░░░░░░░░░░░░░░░░  215
-</pre>
-<!-- WAKATIME_LAST30AIMODELS:END -->
+<!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
 ## Tech
 
