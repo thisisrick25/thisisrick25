@@ -13,7 +13,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,275 hrs 13 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,275 hrs 29 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
@@ -41,7 +41,7 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 <!-- WAKATIME_LAST30AICOST:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 36M in • 2.8M out
+**Last Year AI Tokens:** 36.2M in • 2.8M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -80,9 +80,10 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     █████████████████░░░   85.9%  38 hrs 24 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 18 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  2 hrs 54 mins
+AI Coding     █████████████████░░░   85.9%  41 hrs 49 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 37 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  3 hrs 8 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
