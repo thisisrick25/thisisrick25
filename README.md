@@ -16,6 +16,9 @@
 **All-Time Total:** 2,275 hrs 29 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
+</td>
+<td valign="top" width="50%">
+
 <!-- WAKATIME_LAST30AITOKENS:START -->
 **Last 30 Days AI Tokens:** 4.3M in • 1.7M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
@@ -24,7 +27,13 @@
 **Last 30 Days AI vs Human:** 59% AI • 41% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
+<!-- WAKATIME_LASTYEARAITOKENS:START -->
+**Last Year AI Tokens:** 36.2M in • 2.8M out
+<!-- WAKATIME_LASTYEARAITOKENS:END -->
+
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
@@ -40,12 +49,25 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
-<!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 36.2M in • 2.8M out
-<!-- WAKATIME_LASTYEARAITOKENS:END -->
+</td>
+<td valign="top" width="50%">
+
+<!-- WAKATIME_LAST30CATEGORIES:START -->
+**Last 30 Days Categories:**
+
+<pre>
+AI Coding     █████████████████░░░   85.9%  41 hrs 49 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 37 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  3 hrs 8 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
+</pre>
+<!-- WAKATIME_LAST30CATEGORIES:END -->
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td valign="top">
 
@@ -75,17 +97,6 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </td>
 </tr>
 </table>
-
-<!-- WAKATIME_LAST30CATEGORIES:START -->
-**Last 30 Days Categories:**
-
-<pre>
-AI Coding     █████████████████░░░   85.9%  41 hrs 49 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 37 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  3 hrs 8 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
-</pre>
-<!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LASTYEARLANGUAGES:START -->
 **Last Year Languages:**
