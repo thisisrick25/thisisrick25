@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
 **Last 7 Days:** 14 hrs 50 mins total • 2 hrs 28 mins/day
@@ -21,7 +21,7 @@
 <!-- WAKATIME_LAST30BESTDAY:END -->
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
 **Last 30 Days: AI Cost**
