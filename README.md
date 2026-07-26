@@ -74,6 +74,8 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 
 </td>
 </tr>
+</table>
+<table>
 <tr>
 <td valign="top" width="50%">
 
