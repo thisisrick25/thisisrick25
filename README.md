@@ -1,5 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 
+<!-- WAKATIME_LAST7TOTAL:START -->
+**Last 7 Days:** 13 hrs 21 mins total • 2 hrs 40 mins/day
+<!-- WAKATIME_LAST7TOTAL:END -->
+
 <!-- WAKATIME_LAST30TOTAL:START -->
 **Last 30 Days:** 40 hrs 11 mins total • 1 hr 36 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
@@ -34,6 +38,13 @@ Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.
 Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
+
+<!-- WAKATIME_LAST30EDITORS:START -->
+<!-- WAKATIME_LAST30EDITORS:END -->
+
+<!-- WAKATIME_LAST30AICOST:START -->
+<!-- WAKATIME_LAST30AICOST:END -->
+
 <table>
 <tr>
 <td valign="top">
