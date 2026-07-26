@@ -1,17 +1,14 @@
-<table>
-<tr>
-<td valign="middle">
-<img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
-</td>
-<td valign="middle">
+<img align="left" src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
+
+<div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
 **All-Time Total:** 2,275 hrs 29 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="all" />
 
 <table>
 <tr>
