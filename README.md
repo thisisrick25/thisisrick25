@@ -13,7 +13,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,274 hrs 54 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,275 hrs 13 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
@@ -72,6 +72,11 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 **Last Year Languages:**
 
 <pre>
+TypeScript  ██████░░░░░░░░░░░░░░   31.8%  162 hrs 16 mins [AI 21% · Manual 79%]
+Python      ████░░░░░░░░░░░░░░░░   18.5%  94 hrs 17 mins [AI 22% · Manual 78%]
+Markdown    ███░░░░░░░░░░░░░░░░░   13.0%  66 hrs 24 mins [AI 51% · Manual 49%]
+JSON        ██░░░░░░░░░░░░░░░░░░    7.7%  39 hrs 15 mins [AI 33% · Manual 67%]
+YAML        █░░░░░░░░░░░░░░░░░░░    5.9%  29 hrs 51 mins [AI 15% · Manual 85%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
