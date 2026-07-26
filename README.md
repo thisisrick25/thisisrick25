@@ -38,6 +38,41 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<!-- PRS:START -->
+### Recent Pull Requests
+
+- [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+- [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
+<!-- PRS:END -->
+
+</td>
+<td valign="top">
+
+<!-- NOTABLE-CONTRIBUTIONS:START -->
+### Notable Contributions
+
+- [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) ***in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)***
+- [feat: add validation for duplicate structure acronyms](https://github.com/brainglobe/brainglobe-atlasapi/pull/734) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
+- [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
+- [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
+- [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
+<!-- NOTABLE-CONTRIBUTIONS:END -->
+
+</td>
+</tr>
 </table>
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
@@ -73,37 +108,6 @@ OpenCode        ░░░░░░░░░░░░░░░░░░░░    
 Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
-
-<table>
-<tr>
-<td valign="top">
-
-<!-- PRS:START -->
-### Recent Pull Requests
-
-- [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-<!-- PRS:END -->
-
-</td>
-<td valign="top">
-
-<!-- NOTABLE-CONTRIBUTIONS:START -->
-### Notable Contributions
-
-- [fix(core): correctly consolidate multi-part text content](https://github.com/google-gemini/gemini-cli/pull/6235) ***in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)***
-- [feat: add validation for duplicate structure acronyms](https://github.com/brainglobe/brainglobe-atlasapi/pull/734) ***in [brainglobe/brainglobe-atlasapi](https://github.com/brainglobe/brainglobe-atlasapi)***
-- [[ENH] support for neuralforecast new versions](https://github.com/sktime/sktime/pull/8750) ***in [sktime/sktime](https://github.com/sktime/sktime)***
-- [chore(sdist): migrate `project.license` to SPDX expression](https://github.com/falconry/falcon/pull/2452) ***in [falconry/falcon](https://github.com/falconry/falcon)***
-- [Built API docs from the docstrings using Sphinx+autodocs](https://github.com/brainglobe/brainglobe.github.io/pull/329) ***in [brainglobe/brainglobe.github.io](https://github.com/brainglobe/brainglobe.github.io)***
-<!-- NOTABLE-CONTRIBUTIONS:END -->
-
-</td>
-</tr>
-</table>
 
 ## Tech
 
