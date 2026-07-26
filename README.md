@@ -20,6 +20,10 @@
 **Last 30 Days AI Tokens:** 4.3M in • 1.7M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
+<!-- WAKATIME_LAST30AIRATIO:START -->
+**Last 30 Days AI vs Human:** 59% AI • 41% human
+<!-- WAKATIME_LAST30AIRATIO:END -->
+
 </td>
 <td valign="top" width="50%">
 
@@ -35,6 +39,10 @@ GPT           ███░░░░░░░░░░░░░░░░░  $8.8
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.01
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
+
+<!-- WAKATIME_LASTYEARAITOKENS:START -->
+**Last Year AI Tokens:** 36M in • 2.8M out
+<!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
 </tr>
@@ -67,6 +75,16 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </td>
 </tr>
 </table>
+
+<!-- WAKATIME_LAST30CATEGORIES:START -->
+**Last 30 Days Categories:**
+
+<pre>
+AI Coding     █████████████████░░░   85.9%  38 hrs 24 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    7.4%  3 hrs 18 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.5%  2 hrs 54 mins
+</pre>
+<!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LASTYEARLANGUAGES:START -->
 **Last Year Languages:**

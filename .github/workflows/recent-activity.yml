@@ -20,4 +20,4 @@ jobs:
           PLUGINS: prs, notable-contributions, wakatime
           COMMIT_AUTHOR_NAME: thisisrick25
           COMMIT_AUTHOR_EMAIL: swapnaneel06@gmail.com
-          PLUGIN_CONFIG: '{"wakatime":{"sections":["last7Total","last30Total","sinceToday","last30AiCost","last30AiTokens","lastYearLanguages"]}}'
+          PLUGIN_CONFIG: '{"wakatime":{"sections":["last7Total","last30Total","sinceToday","last30AiCost","last30AiTokens","last30AiRatio","lastYearAiTokens","last30Categories","lastYearLanguages"]}}'
