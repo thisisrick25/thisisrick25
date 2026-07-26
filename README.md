@@ -13,7 +13,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,272 hrs 43 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,273 hrs 6 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
@@ -28,7 +28,7 @@
 <td valign="top">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days: AI Cost**
+**Last 30 Days AI Cost:**
 
 **Total:** $52.96
 
@@ -48,11 +48,11 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [fix(wakatime): one-line AI tokens and colon-suffix section headings](https://github.com/thisisrick25/readme-engine/pull/59) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold inline labels for total and best-day text outputs](https://github.com/thisisrick25/readme-engine/pull/47) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): add summaries today projects leaders goals durations sections](https://github.com/thisisrick25/readme-engine/pull/44) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
@@ -73,7 +73,7 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.0
 </table>
 
 <!-- WAKATIME_LAST30LANGUAGES:START -->
-**Last 30 Days: Languages**
+**Last 30 Days Languages:**
 
 <pre>
 Markdown    █████████░░░░░░░░░░░   43.2%  19 hrs 4 mins [AI 86% · Manual 14%]
@@ -85,7 +85,7 @@ YAML        █░░░░░░░░░░░░░░░░░░░    6.6%
 <!-- WAKATIME_LAST30LANGUAGES:END -->
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
-**Last 30 Days: Categories**
+**Last 30 Days Categories:**
 
 <pre>
 AI Coding     █████████████████░░░   84.8%  37 hrs 22 mins
@@ -96,7 +96,7 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30EDITORS:START -->
-**Last 30 Days: Editors**
+**Last 30 Days Editors:**
 
 <pre>
 Opencode Cli    ████████████░░░░░░░░   62.4%  27 hrs 31 mins [AI 100% · Manual 0%]
