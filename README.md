@@ -24,6 +24,14 @@
 **Last 30 Days AI Tokens:** 4.2M in • 1.5M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
+<!-- WAKATIME_LAST30AICHANGES:START -->
+**Last 30 Days AI Changes:** +21.8K / -1.3K AI • +8.6K / -7.6K human
+<!-- WAKATIME_LAST30AICHANGES:END -->
+
+<!-- WAKATIME_LAST30AIRATIO:START -->
+**Last 30 Days AI vs Human:** 72% AI • 28% human
+<!-- WAKATIME_LAST30AIRATIO:END -->
+
 </td>
 <td valign="top" width="50%">
 
@@ -105,6 +113,17 @@ OpenCode        ░░░░░░░░░░░░░░░░░░░░    
 Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
+
+<!-- WAKATIME_LAST30AIMODELS:START -->
+**Last 30 Days AI Models:**
+
+<pre>
+Opus          ████████████████████  15.8K
+GPT           ███████░░░░░░░░░░░░░░  5.4K
+Sonnet        ██░░░░░░░░░░░░░░░░░░░  1.4K
+Opencode-Cli  █░░░░░░░░░░░░░░░░░░░░  444
+</pre>
+<!-- WAKATIME_LAST30AIMODELS:END -->
 
 ## Tech
 
