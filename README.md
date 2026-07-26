@@ -1,4 +1,17 @@
+<table>
+<tr>
+<td valign="middle">
 <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
+</td>
+<td valign="middle">
+
+<!-- WAKATIME_SINCETODAY:START -->
+**All-Time Total:** 2,275 hrs 29 mins (since Thu Sep 3rd 2020)
+<!-- WAKATIME_SINCETODAY:END -->
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -12,9 +25,9 @@
 **Last 30 Days:** 44 hrs 42 mins total • 1 hr 47 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
-<!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,275 hrs 29 mins (since Thu Sep 3rd 2020)
-<!-- WAKATIME_SINCETODAY:END -->
+<!-- WAKATIME_LASTYEARTOTAL:START -->
+**Last Year:** 493 hrs 54 mins total • 1 hr 52 mins/day
+<!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
