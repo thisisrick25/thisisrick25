@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=thisisrick25&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrick25" />
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 13 hrs 21 mins total • 2 hrs 40 mins/day
+**Last 7 Days:** 14 hrs 50 mins total • 2 hrs 28 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -9,7 +9,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,271 hrs 36 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,271 hrs 46 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 <!-- WAKATIME_LAST30BESTDAY:START -->
@@ -40,9 +40,27 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 <!-- WAKATIME_LAST30EDITORS:START -->
+**Last 30 Days: Editors**
+
+<pre>
+Opencode Cli    ████████████░░░░░░░░   62.4%  27 hrs 31 mins [AI 100% · Manual 0%]
+VS Code         ███████░░░░░░░░░░░░░   36.9%  16 hrs 15 mins [AI 59% · Manual 41%]
+OpenCode        ░░░░░░░░░░░░░░░░░░░░    0.7%  17 mins [AI 100% · Manual 0%]
+Unknown Editor  ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min [AI 100% · Manual 0%]
+</pre>
 <!-- WAKATIME_LAST30EDITORS:END -->
 
 <!-- WAKATIME_LAST30AICOST:START -->
+**Last 30 Days: AI Cost**
+
+**Total:** $52.96
+
+<pre>
+Opus          █████████████░░░░░░░  $33.94
+Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $9.15
+GPT           ███░░░░░░░░░░░░░░░░░  $8.86
+Sonnet        ░░░░░░░░░░░░░░░░░░░░  $1.01
+</pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
 <table>
