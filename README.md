@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,276 hrs 19 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,276 hrs 26 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -46,9 +46,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:**
-
-**Total:** $58.13
+**Last 30 Days AI Cost:** $58.13 total
 
 <pre>
 Opus          █████████████░░░░░░░  $38.66
@@ -80,11 +78,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [fix(wakatime): inline total into AI cost heading](https://github.com/thisisrick25/readme-engine/pull/65) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add AI changes, models and ratio facets](https://github.com/thisisrick25/readme-engine/pull/62) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): one-line AI tokens and colon-suffix section headings](https://github.com/thisisrick25/readme-engine/pull/59) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [fix(wakatime): standardize colon labels for text outputs](https://github.com/thisisrick25/readme-engine/pull/50) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
