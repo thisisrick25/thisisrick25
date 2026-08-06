@@ -14,15 +14,15 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 5 hrs total • 50 mins/day
+**Last 7 Days:** 4 hrs 26 mins total • 53 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 45 hrs 44 mins total • 1 hr 45 mins/day
+**Last 30 Days:** 45 hrs 33 mins total • 1 hr 49 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 491 hrs 37 mins total • 1 hr 51 mins/day
+**Last Year:** 489 hrs 4 mins total • 1 hr 51 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -46,12 +46,12 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $56.90 total
+**Last 30 Days AI Cost:** $56.42 total
 
 <pre>
-Opus          ███████████████░░░░░  $43.63
+Opus          ███████████████░░░░░  $43.20
 GPT           ███░░░░░░░░░░░░░░░░░  $7.32
-Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $5.58
+Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $5.54
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $0.36
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
@@ -63,7 +63,7 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $0.3
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     █████████████████░░░   86.0%  42 hrs 57 mins
+AI Coding     █████████████████░░░   86.0%  42 hrs 46 mins
 Writing Docs  █░░░░░░░░░░░░░░░░░░░    7.2%  3 hrs 34 mins
 Coding        █░░░░░░░░░░░░░░░░░░░    6.6%  3 hrs 17 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
@@ -106,11 +106,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 **Last Year Languages:**
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   31.9%  162 hrs 35 mins [AI 21% · Manual 79%]
-Python      ███░░░░░░░░░░░░░░░░░   16.6%  84 hrs 39 mins [AI 24% · Manual 76%]
-Markdown    ███░░░░░░░░░░░░░░░░░   14.3%  72 hrs 43 mins [AI 54% · Manual 46%]
+TypeScript  ██████░░░░░░░░░░░░░░   32.1%  162 hrs 35 mins [AI 21% · Manual 79%]
+Python      ███░░░░░░░░░░░░░░░░░   16.6%  84 hrs 11 mins [AI 25% · Manual 75%]
+Markdown    ███░░░░░░░░░░░░░░░░░   14.3%  72 hrs 20 mins [AI 54% · Manual 46%]
 JSON        ██░░░░░░░░░░░░░░░░░░    7.8%  39 hrs 45 mins [AI 34% · Manual 66%]
-YAML        █░░░░░░░░░░░░░░░░░░░    5.9%  30 hrs 12 mins [AI 16% · Manual 84%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.0%  30 hrs 12 mins [AI 16% · Manual 84%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
