@@ -14,26 +14,26 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 56 mins total • 14 mins/day
+**Last 7 Days:** 49 mins total • 16 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 44 hrs 56 mins total • 1 hr 52 mins/day
+**Last 30 Days:** 42 hrs 42 mins total • 1 hr 51 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 488 hrs total • 1 hr 51 mins/day
+**Last Year:** 486 hrs 27 mins total • 1 hr 51 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 3.5M in • 1.7M out
+**Last 30 Days AI Tokens:** 2.5M in • 1.5M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 60% AI • 40% human
+**Last 30 Days AI vs Human:** 51% AI • 49% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,12 +46,12 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $55.64 total
+**Last 30 Days AI Cost:** $47.31 total
 
 <pre>
-Opus          ███████████████░░░░░  $42.67
-GPT           ███░░░░░░░░░░░░░░░░░  $7.32
-Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $5.29
+Opus          █████████████████░░░  $39.79
+GPT           ██░░░░░░░░░░░░░░░░░░  $3.75
+Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $3.41
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $0.36
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
@@ -63,10 +63,10 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $0.3
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     █████████████████░░░   86.0%  42 hrs 14 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    7.1%  3 hrs 29 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    6.7%  3 hrs 16 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.2%  5 mins
+AI Coding     █████████████████░░░   86.3%  40 hrs 27 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    7.0%  3 hrs 16 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.6%  3 hrs 5 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  3 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
@@ -106,11 +106,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 **Last Year Languages:**
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   32.2%  162 hrs 35 mins [AI 21% · Manual 79%]
-Python      ███░░░░░░░░░░░░░░░░░   16.6%  83 hrs 53 mins [AI 25% · Manual 75%]
-Markdown    ███░░░░░░░░░░░░░░░░░   14.3%  72 hrs 19 mins [AI 54% · Manual 46%]
+TypeScript  ██████░░░░░░░░░░░░░░   32.3%  162 hrs 35 mins [AI 21% · Manual 79%]
+Python      ███░░░░░░░░░░░░░░░░░   16.4%  82 hrs 23 mins [AI 25% · Manual 75%]
+Markdown    ███░░░░░░░░░░░░░░░░░   14.4%  72 hrs 19 mins [AI 54% · Manual 46%]
 JSON        ██░░░░░░░░░░░░░░░░░░    7.9%  39 hrs 45 mins [AI 34% · Manual 66%]
-YAML        █░░░░░░░░░░░░░░░░░░░    6.0%  30 hrs 12 mins [AI 16% · Manual 84%]
+YAML        █░░░░░░░░░░░░░░░░░░░    6.0%  30 hrs 10 mins [AI 16% · Manual 84%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
