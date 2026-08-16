@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 39 hrs 11 mins total • 1 hr 46 mins/day
+**Last 30 Days:** 43 hrs 15 mins total • 1 hr 57 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,11 +29,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 48.0M in • 1.7M out
+**Last 30 Days AI Tokens:** 81.4M in • 2.0M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 48% AI • 52% human
+**Last 30 Days AI vs Human:** 52% AI • 48% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,13 +46,13 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $343.30 total
+**Last 30 Days AI Cost:** $576.56 total
 
 <pre>
-Opus          ██████████████████░░  $304.73
-Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $31.32
-GPT           ░░░░░░░░░░░░░░░░░░░░  $4.14
-Sonnet        ░░░░░░░░░░░░░░░░░░░░  $3.11
+Opus          ██████████████████░░  $514.49
+Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $31.29
+Sonnet        █░░░░░░░░░░░░░░░░░░░  $22.62
+GPT           ░░░░░░░░░░░░░░░░░░░░  $8.16
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -63,9 +63,9 @@ Sonnet        ░░░░░░░░░░░░░░░░░░░░  $3.1
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ██████████████████░░   89.0%  38 hrs 4 mins
-Writing Docs  ██░░░░░░░░░░░░░░░░░░    7.5%  3 hrs 12 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    3.5%  1 hr 30 mins
+AI Coding     ██████████████████░░   90.1%  42 hrs 16 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.7%  3 hrs 8 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    3.2%  1 hr 30 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
