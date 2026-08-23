@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 45 hrs 17 mins total • 1 hr 53 mins/day
+**Last 30 Days:** 43 hrs 19 mins total • 1 hr 48 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,7 +29,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 106.3M in • 2.3M out
+**Last 30 Days AI Tokens:** 109.9M in • 2.3M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
@@ -46,13 +46,13 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $746.89 total
+**Last 30 Days AI Cost:** $775.50 total
 
 <pre>
-Opus          ██████████████████░░  $676.26
-Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $40.10
+Opus          ██████████████████░░  $696.31
+Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $47.38
 Sonnet        █░░░░░░░░░░░░░░░░░░░  $22.62
-GPT           ░░░░░░░░░░░░░░░░░░░░  $7.90
+GPT           ░░░░░░░░░░░░░░░░░░░░  $9.18
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -63,9 +63,9 @@ GPT           ░░░░░░░░░░░░░░░░░░░░  $7.9
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   92.6%  46 hrs 42 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    6.0%  3 hrs 2 mins
-Coding        ░░░░░░░░░░░░░░░░░░░░    1.3%  40 mins
+AI Coding     ███████████████████░   94.7%  45 hrs 35 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.2%  2 hrs
+Coding        ░░░░░░░░░░░░░░░░░░░░    1.1%  32 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
