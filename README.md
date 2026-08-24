@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,314 hrs 17 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,315 hrs 35 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 43 hrs 19 mins total • 1 hr 48 mins/day
+**Last 30 Days:** 41 hrs 32 mins total • 1 hr 39 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,11 +29,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 109.9M in • 2.3M out
+**Last 30 Days AI Tokens:** 113.8M in • 2.2M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 95% AI • 5% human
+**Last 30 Days AI vs Human:** 96% AI • 4% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,13 +46,13 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $775.50 total
+**Last 30 Days AI Cost:** $813.06 total
 
 <pre>
-Opus          ██████████████████░░  $696.31
-Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $47.38
-Sonnet        █░░░░░░░░░░░░░░░░░░░  $22.62
-GPT           ░░░░░░░░░░░░░░░░░░░░  $9.18
+Opus          ██████████████████░░  $718.03
+Opencode-Cli  █░░░░░░░░░░░░░░░░░░░  $58.92
+Sonnet        █░░░░░░░░░░░░░░░░░░░  $21.13
+GPT           ░░░░░░░░░░░░░░░░░░░░  $14.98
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -63,9 +63,9 @@ GPT           ░░░░░░░░░░░░░░░░░░░░  $9.1
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   94.7%  45 hrs 35 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.2%  2 hrs
-Coding        ░░░░░░░░░░░░░░░░░░░░    1.1%  32 mins
+AI Coding     ███████████████████░   95.5%  44 hrs 35 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    3.7%  1 hr 44 mins
+Coding        ░░░░░░░░░░░░░░░░░░░░    0.7%  18 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
