@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,321 hrs 58 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,322 hrs 28 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 42 hrs 36 mins total • 1 hr 42 mins/day
+**Last 30 Days:** 42 hrs 34 mins total • 1 hr 42 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,11 +29,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 129.0M in • 2.4M out
+**Last 30 Days AI Tokens:** 151.2M in • 2.4M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 96% AI • 4% human
+**Last 30 Days AI vs Human:** 97% AI • 3% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,13 +46,13 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $937.91 total
+**Last 30 Days AI Cost:** $1119.46 total
 
 <pre>
-Opus          ██████████████████░░  $829.70
-Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $72.10
+Opus          █████████████████░░░  $975.28
+Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $106.17
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $21.13
-GPT           ░░░░░░░░░░░░░░░░░░░░  $14.98
+GPT           ░░░░░░░░░░░░░░░░░░░░  $16.88
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -63,9 +63,9 @@ GPT           ░░░░░░░░░░░░░░░░░░░░  $14.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   95.1%  45 hrs 31 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.0%  1 hr 54 mins
-Coding        ░░░░░░░░░░░░░░░░░░░░    0.9%  24 mins
+AI Coding     ███████████████████░   94.8%  45 hrs 31 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    3.8%  1 hr 50 mins
+Coding        ░░░░░░░░░░░░░░░░░░░░    1.3%  37 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
