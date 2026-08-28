@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,323 hrs (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,325 hrs 50 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 40 hrs 17 mins total • 1 hr 36 mins/day
+**Last 30 Days:** 35 hrs 46 mins total • 1 hr 25 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,7 +29,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 151.7M in • 2.3M out
+**Last 30 Days AI Tokens:** 151.6M in • 2.2M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
@@ -46,13 +46,13 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $1125.03 total
+**Last 30 Days AI Cost:** $1121.44 total
 
 <pre>
-Opus          █████████████████░░░  $979.03
+Opus          █████████████████░░░  $975.47
 Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $108.03
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $21.13
-GPT           ░░░░░░░░░░░░░░░░░░░░  $16.84
+GPT           ░░░░░░░░░░░░░░░░░░░░  $16.81
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -63,9 +63,9 @@ GPT           ░░░░░░░░░░░░░░░░░░░░  $16.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   94.5%  43 hrs 10 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.1%  1 hr 51 mins
-Coding        ░░░░░░░░░░░░░░░░░░░░    1.4%  37 mins
+AI Coding     ███████████████████░   94.1%  37 hrs 46 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.3%  1 hr 42 mins
+Coding        ░░░░░░░░░░░░░░░░░░░░    1.6%  37 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
@@ -78,11 +78,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [Add workflow for generating contribution summaries](https://github.com/thisisrick25/braindump/pull/1) ***in [thisisrick25/braindump](https://github.com/thisisrick25/braindump)***
 - [fix(wakatime): inline total into AI cost heading](https://github.com/thisisrick25/readme-engine/pull/65) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add AI changes, models and ratio facets](https://github.com/thisisrick25/readme-engine/pull/62) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): one-line AI tokens and colon-suffix section headings](https://github.com/thisisrick25/readme-engine/pull/59) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add today window and AI cost and tokens facets](https://github.com/thisisrick25/readme-engine/pull/56) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [feat(wakatime): use bold colon labels for bar chart sections](https://github.com/thisisrick25/readme-engine/pull/53) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
