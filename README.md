@@ -14,22 +14,22 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 14 hrs 48 mins total • 2 hrs 6 mins/day
+**Last 7 Days:** 13 hrs 10 mins total • 1 hr 52 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 38 hrs 2 mins total • 1 hr 31 mins/day
+**Last 30 Days:** 34 hrs 31 mins total • 1 hr 22 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 484 hrs 54 mins total • 1 hr 51 mins/day
+**Last Year:** 477 hrs 43 mins total • 1 hr 49 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 153.6M in • 2.3M out
+**Last 30 Days AI Tokens:** 153.5M in • 2.2M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
@@ -46,12 +46,12 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $1142.11 total
+**Last 30 Days AI Cost:** $1140.08 total
 
 <pre>
-Opus          █████████████████░░░  $988.41
-Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $110.96
-Sonnet        ░░░░░░░░░░░░░░░░░░░░  $26.01
+Opus          █████████████████░░░  $986.63
+Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $110.95
+Sonnet        ░░░░░░░░░░░░░░░░░░░░  $25.77
 GPT           ░░░░░░░░░░░░░░░░░░░░  $16.73
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
@@ -63,9 +63,9 @@ GPT           ░░░░░░░░░░░░░░░░░░░░  $16.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   93.5%  39 hrs 7 mins
-Writing Docs  █░░░░░░░░░░░░░░░░░░░    3.8%  1 hr 35 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    2.6%  1 hr 4 mins
+AI Coding     ███████████████████░   93.1%  35 hrs 38 mins
+Writing Docs  █░░░░░░░░░░░░░░░░░░░    4.1%  1 hr 34 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    2.8%  1 hr 3 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
@@ -106,11 +106,11 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 **Last Year Languages:**
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   31.3%  157 hrs 58 mins [AI 21% · Manual 79%]
-Markdown    ███░░░░░░░░░░░░░░░░░   17.0%  85 hrs 51 mins [AI 61% · Manual 39%]
-Python      ███░░░░░░░░░░░░░░░░░   14.5%  73 hrs 8 mins [AI 36% · Manual 64%]
-JSON        █░░░░░░░░░░░░░░░░░░░    7.3%  36 hrs 43 mins [AI 38% · Manual 62%]
-YAML        █░░░░░░░░░░░░░░░░░░░    5.5%  27 hrs 49 mins [AI 19% · Manual 81%]
+TypeScript  ██████░░░░░░░░░░░░░░   31.7%  157 hrs 58 mins [AI 21% · Manual 79%]
+Markdown    ███░░░░░░░░░░░░░░░░░   17.2%  85 hrs 51 mins [AI 61% · Manual 39%]
+Python      ███░░░░░░░░░░░░░░░░░   14.7%  73 hrs 8 mins [AI 36% · Manual 64%]
+JSON        █░░░░░░░░░░░░░░░░░░░    7.3%  36 hrs 11 mins [AI 39% · Manual 61%]
+YAML        █░░░░░░░░░░░░░░░░░░░    5.4%  26 hrs 55 mins [AI 19% · Manual 81%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
