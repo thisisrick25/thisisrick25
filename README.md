@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,335 hrs 42 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,336 hrs 2 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -22,7 +22,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 459 hrs 17 mins total • 1 hr 45 mins/day
+**Last Year:** 457 hrs 34 mins total • 1 hr 45 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -37,7 +37,7 @@
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 211.9M in • 6.0M out
+**Last Year AI Tokens:** 212.7M in • 6.0M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -107,10 +107,10 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 **Last Year Languages:**
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   32.3%  154 hrs 34 mins [AI 21% · Manual 79%]
-Markdown    ████░░░░░░░░░░░░░░░░   17.9%  85 hrs 52 mins [AI 63% · Manual 37%]
+TypeScript  ██████░░░░░░░░░░░░░░   32.4%  154 hrs 34 mins [AI 21% · Manual 79%]
+Markdown    ████░░░░░░░░░░░░░░░░   17.6%  84 hrs 18 mins [AI 65% · Manual 35%]
 Python      ███░░░░░░░░░░░░░░░░░   15.7%  75 hrs 4 mins [AI 37% · Manual 63%]
-JSON        █░░░░░░░░░░░░░░░░░░░    7.1%  34 hrs 10 mins [AI 41% · Manual 59%]
+JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  33 hrs 33 mins [AI 42% · Manual 58%]
 Other       █░░░░░░░░░░░░░░░░░░░    4.2%  19 hrs 59 mins [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
