@@ -22,7 +22,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 457 hrs 34 mins total • 1 hr 45 mins/day
+**Last Year:** 457 hrs 40 mins total • 1 hr 45 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -37,7 +37,7 @@
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 212.7M in • 6.0M out
+**Last Year AI Tokens:** 212.8M in • 6.0M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -108,7 +108,7 @@ Building      ░░░░░░░░░░░░░░░░░░░░    0.
 
 <pre>
 TypeScript  ██████░░░░░░░░░░░░░░   32.4%  154 hrs 34 mins [AI 21% · Manual 79%]
-Markdown    ████░░░░░░░░░░░░░░░░   17.6%  84 hrs 18 mins [AI 65% · Manual 35%]
+Markdown    ████░░░░░░░░░░░░░░░░   17.6%  83 hrs 50 mins [AI 65% · Manual 35%]
 Python      ███░░░░░░░░░░░░░░░░░   15.7%  75 hrs 4 mins [AI 37% · Manual 63%]
 JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  33 hrs 33 mins [AI 42% · Manual 58%]
 Other       █░░░░░░░░░░░░░░░░░░░    4.2%  19 hrs 59 mins [AI 100% · Manual 0%]
