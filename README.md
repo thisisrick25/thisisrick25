@@ -14,11 +14,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 9 hrs 3 mins total • 1 hr 30 mins/day
+**Last 7 Days:** 9 hrs 37 mins total • 1 hr 22 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 42 hrs 31 mins total • 1 hr 34 mins/day
+**Last 30 Days:** 43 hrs 4 mins total • 1 hr 32 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -46,10 +46,10 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $1302.85 total
+**Last 30 Days AI Cost:** $1303.56 total
 
 <pre>
-Opus          █████████████████░░░  $1077.32
+Opus          █████████████████░░░  $1078.03
 Opencode-Cli  ██░░░░░░░░░░░░░░░░░░  $142.60
 Sonnet        ░░░░░░░░░░░░░░░░░░░░  $29.10
 GPT           ░░░░░░░░░░░░░░░░░░░░  $29.01
@@ -64,8 +64,8 @@ Fable         ░░░░░░░░░░░░░░░░░░░░  $24.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████████░   93.0%  43 hrs 52 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    4.0%  1 hr 52 mins
+AI Coding     ███████████████████░   92.8%  44 hrs 20 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    4.1%  1 hr 58 mins
 Writing Docs  █░░░░░░░░░░░░░░░░░░░    3.0%  1 hr 25 mins
 Building      ░░░░░░░░░░░░░░░░░░░░    0.1%  1 min
 </pre>
