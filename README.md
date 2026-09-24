@@ -22,7 +22,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 436 hrs 54 mins total • 1 hr 42 mins/day
+**Last Year:** 436 hrs 8 mins total • 1 hr 42 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -106,10 +106,10 @@ Writing Docs  █░░░░░░░░░░░░░░░░░░░    2.
 **Last Year Languages:**
 
 <pre>
-TypeScript  ██████░░░░░░░░░░░░░░   30.4%  138 hrs 58 mins [AI 23% · Manual 77%]
+TypeScript  ██████░░░░░░░░░░░░░░   30.3%  138 hrs 13 mins [AI 23% · Manual 77%]
 Markdown    ████░░░░░░░░░░░░░░░░   18.8%  86 hrs 3 mins [AI 66% · Manual 34%]
 Python      ███░░░░░░░░░░░░░░░░░   13.7%  62 hrs 41 mins [AI 45% · Manual 55%]
-JSON        █░░░░░░░░░░░░░░░░░░░    6.9%  31 hrs 47 mins [AI 43% · Manual 57%]
+JSON        █░░░░░░░░░░░░░░░░░░░    7.0%  31 hrs 47 mins [AI 43% · Manual 57%]
 Other       █░░░░░░░░░░░░░░░░░░░    4.5%  20 hrs 48 mins [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
