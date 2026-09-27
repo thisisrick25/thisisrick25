@@ -22,7 +22,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 436 hrs 40 mins total • 1 hr 42 mins/day
+**Last Year:** 437 hrs 9 mins total • 1 hr 42 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -37,7 +37,7 @@
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 220.8M in • 6.3M out
+**Last Year AI Tokens:** 220.9M in • 6.3M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
