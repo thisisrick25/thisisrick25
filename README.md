@@ -14,11 +14,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 4 hrs 11 mins total • 41 mins/day
+**Last 7 Days:** 4 hrs 39 mins total • 46 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 24 hrs 4 mins total • 57 mins/day
+**Last 30 Days:** 21 hrs 43 mins total • 52 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,7 +29,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 23.1M in • 754.8K out
+**Last 30 Days AI Tokens:** 21.9M in • 697.8K out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
@@ -46,11 +46,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $181.96 total
+**Last 30 Days AI Cost:** $171.90 total
 
 <pre>
-Opus          █████████░░░░░░░░░░░  $84.28
-Opencode-Cli  ████░░░░░░░░░░░░░░░░  $35.22
+Opus          █████████░░░░░░░░░░░  $76.47
+Opencode-Cli  ████░░░░░░░░░░░░░░░░  $33.69
 GPT           ██░░░░░░░░░░░░░░░░░░  $17.18
 Glm           ██░░░░░░░░░░░░░░░░░░  $17.00
 Fable         ██░░░░░░░░░░░░░░░░░░  $16.79
@@ -64,9 +64,9 @@ Fable         ██░░░░░░░░░░░░░░░░░░  $16.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████░░░░░   75.6%  20 hrs 1 min
-Coding        ████░░░░░░░░░░░░░░░░   22.2%  5 hrs 52 mins
-Writing Docs  ░░░░░░░░░░░░░░░░░░░░    2.2%  35 mins
+AI Coding     ███████████████░░░░░   75.3%  18 hrs 11 mins
+Coding        ████░░░░░░░░░░░░░░░░   22.5%  5 hrs 25 mins
+Writing Docs  ░░░░░░░░░░░░░░░░░░░░    2.3%  32 mins
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
