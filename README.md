@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,360 hrs 38 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,361 hrs 1 min (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 28 hrs 54 mins total • 1 hr 6 mins/day
+**Last 30 Days:** 30 hrs 37 mins total • 1 hr 10 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,11 +29,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 24.2M in • 827.2K out
+**Last 30 Days AI Tokens:** 26.3M in • 970.3K out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 84% AI • 16% human
+**Last 30 Days AI vs Human:** 85% AI • 15% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,14 +46,14 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $194.21 total
+**Last 30 Days AI Cost:** $213.76 total
 
 <pre>
-Opus          ████████░░░░░░░░░░░░  $75.02
-Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $33.69
+Opus          █████████░░░░░░░░░░░  $95.24
+Opencode-Cli  ███░░░░░░░░░░░░░░░░░  $34.71
 K             ██░░░░░░░░░░░░░░░░░░  $22.25
 Glm           ██░░░░░░░░░░░░░░░░░░  $18.88
-Fable         ██░░░░░░░░░░░░░░░░░░  $16.79
+Fable         █░░░░░░░░░░░░░░░░░░░  $15.20
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -64,10 +64,10 @@ Fable         ██░░░░░░░░░░░░░░░░░░  $16.
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ████████████████░░░░   80.0%  25 hrs 31 mins
-Coding        ████░░░░░░░░░░░░░░░░   17.6%  5 hrs 36 mins
-Writing Docs  ░░░░░░░░░░░░░░░░░░░░    1.7%  32 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.7%  12 mins
+AI Coding     ████████████████░░░░   80.6%  27 hrs 9 mins
+Coding        ███░░░░░░░░░░░░░░░░░   17.1%  5 hrs 46 mins
+Writing Docs  ░░░░░░░░░░░░░░░░░░░░    1.6%  32 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.6%  12 mins
 Debugging     ░░░░░░░░░░░░░░░░░░░░    0.0%  0 secs
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
