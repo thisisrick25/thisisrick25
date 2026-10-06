@@ -18,7 +18,7 @@
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 27 hrs 57 mins total • 1 hr 4 mins/day
+**Last 30 Days:** 28 hrs 4 mins total • 1 hr 4 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,7 +29,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 17.3M in • 729.8K out
+**Last 30 Days AI Tokens:** 16.1M in • 721.7K out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
@@ -46,12 +46,12 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $114.06 total
+**Last 30 Days AI Cost:** $106.83 total
 
 <pre>
-Opus            ████████░░░░░░░░░░░░  $46.97
+Opus            ████████░░░░░░░░░░░░  $42.37
 K               ████░░░░░░░░░░░░░░░░  $22.25
-Glm             ███░░░░░░░░░░░░░░░░░  $18.88
+Glm             ████░░░░░░░░░░░░░░░░  $18.88
 Sonnet          ██░░░░░░░░░░░░░░░░░░  $10.65
 Github-Copilot  █░░░░░░░░░░░░░░░░░░░  $5.25
 </pre>
@@ -64,10 +64,10 @@ Github-Copilot  █░░░░░░░░░░░░░░░░░░░  $5
 **Last 30 Days Categories:**
 
 <pre>
-AI Coding     ███████████████░░░░░   75.2%  22 hrs 56 mins
-Coding        █████░░░░░░░░░░░░░░░   22.6%  6 hrs 53 mins
+AI Coding     ███████████████░░░░░   75.5%  23 hrs 25 mins
+Coding        ████░░░░░░░░░░░░░░░░   21.6%  6 hrs 42 mins
 Writing Docs  ░░░░░░░░░░░░░░░░░░░░    1.5%  27 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.7%  12 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    1.3%  24 mins
 Debugging     ░░░░░░░░░░░░░░░░░░░░    0.0%  0 secs
 </pre>
 <!-- WAKATIME_LAST30CATEGORIES:END -->
