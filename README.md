@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,487 hrs 8 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,488 hrs 37 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -14,11 +14,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 47 hrs 30 mins total • 6 hrs 47 mins/day
+**Last 7 Days:** 49 hrs 24 mins total • 7 hrs 3 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 75 hrs 34 mins total • 2 hrs 36 mins/day
+**Last 30 Days:** 113 hrs 19 mins total • 3 hrs 54 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
@@ -29,11 +29,11 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 63.6M in • 1.9M out
+**Last 30 Days AI Tokens:** 111.8M in • 3.0M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 84% AI • 16% human
+**Last 30 Days AI vs Human:** 79% AI • 21% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
@@ -46,14 +46,14 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $743.57 total
+**Last 30 Days AI Cost:** $2041.86 total
 
 <pre>
-GLM       ████████████░░░░░░░░  $447.97
-Nemotron  █████░░░░░░░░░░░░░░░  $180.72
-Opus      █░░░░░░░░░░░░░░░░░░░  $43.64
-K         █░░░░░░░░░░░░░░░░░░░  $27.77
-Glm       █░░░░░░░░░░░░░░░░░░░  $18.88
+Nemotron  █████████████░░░░░░░  $1318.88
+GLM       ██████░░░░░░░░░░░░░░  $646.25
+Opus      ░░░░░░░░░░░░░░░░░░░░  $32.25
+Glm       ░░░░░░░░░░░░░░░░░░░░  $18.88
+Sonnet    ░░░░░░░░░░░░░░░░░░░░  $11.25
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -61,15 +61,16 @@ Glm       █░░░░░░░░░░░░░░░░░░░  $18.88
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30CATEGORIES:START -->
-**Last 30 Days Categories:**
+**Last 30 Days Activity Categories:**
 
 <pre>
-AI Coding     ███████████████████░   94.4%  77 hrs 59 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    4.4%  3 hrs 39 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    1.1%  52 mins
-Writing Docs  ░░░░░░░░░░░░░░░░░░░░    0.1%  6 mins
-Debugging     ░░░░░░░░░░░░░░░░░░░░    0.0%  0 secs
+AI Coding     ███████████████████░   94.9%  120 hrs 18 mins
+Coding        █░░░░░░░░░░░░░░░░░░░    4.1%  5 hrs 12 mins
+Building      ░░░░░░░░░░░░░░░░░░░░    0.5%  40 mins
+Writing Docs  ░░░░░░░░░░░░░░░░░░░░    0.5%  35 mins
 </pre>
+
+_Category times are an activity breakdown and may not add up to the total coding time._
 <!-- WAKATIME_LAST30CATEGORIES:END -->
 
 </td>
@@ -80,11 +81,11 @@ Debugging     ░░░░░░░░░░░░░░░░░░░░    0.
 <!-- PRS:START -->
 ### Recent Pull Requests
 
+- [fix(wakatime): enhance stats fetching with retry logic and update han…](https://github.com/thisisrick25/readme-engine/pull/71) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): log non-OK WakaTime API responses in fetchJson](https://github.com/thisisrick25/readme-engine/pull/68) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [Add workflow for generating contribution summaries](https://github.com/thisisrick25/braindump/pull/1) ***in [thisisrick25/braindump](https://github.com/thisisrick25/braindump)***
 - [fix(wakatime): inline total into AI cost heading](https://github.com/thisisrick25/readme-engine/pull/65) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add AI changes, models and ratio facets](https://github.com/thisisrick25/readme-engine/pull/62) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [fix(wakatime): one-line AI tokens and colon-suffix section headings](https://github.com/thisisrick25/readme-engine/pull/59) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
 
 </td>
