@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,488 hrs 37 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,524 hrs 40 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -14,15 +14,15 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 49 hrs 24 mins total • 7 hrs 3 mins/day
+**Last 7 Days:** 30 hrs 28 mins total • 4 hrs 21 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 113 hrs 19 mins total • 3 hrs 54 mins/day
+**Last 30 Days:** 0 secs total • unavailable/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 520 hrs 21 mins total • 1 hr 53 mins/day
+**Last Year:** 526 hrs 45 mins total • 1 hr 54 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -37,7 +37,7 @@
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 337.5M in • 9.6M out
+**Last Year AI Tokens:** 368.4M in • 10.7M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -83,7 +83,7 @@ _Category times are an activity breakdown and may not add up to the total coding
 
 - [fix(wakatime): enhance stats fetching with retry logic and update han…](https://github.com/thisisrick25/readme-engine/pull/71) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [fix(wakatime): log non-OK WakaTime API responses in fetchJson](https://github.com/thisisrick25/readme-engine/pull/68) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
-- [Add workflow for generating contribution summaries](https://github.com/thisisrick25/braindump/pull/1) ***in [thisisrick25/braindump](https://github.com/thisisrick25/braindump)***
+- [Add workflow for generating contribution summaries](https://github.com/thisisrick25/writings/pull/1) ***in [thisisrick25/writings](https://github.com/thisisrick25/writings)***
 - [fix(wakatime): inline total into AI cost heading](https://github.com/thisisrick25/readme-engine/pull/65) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 - [feat(wakatime): add AI changes, models and ratio facets](https://github.com/thisisrick25/readme-engine/pull/62) ***in [thisisrick25/readme-engine](https://github.com/thisisrick25/readme-engine)***
 <!-- PRS:END -->
@@ -109,11 +109,11 @@ _Category times are an activity breakdown and may not add up to the total coding
 **Last Year Languages:**
 
 <pre>
-TypeScript  █████░░░░░░░░░░░░░░░   24.8%  137 hrs 39 mins [AI 38% · Manual 62%]
-Markdown    ███░░░░░░░░░░░░░░░░░   17.3%  95 hrs 55 mins [AI 71% · Manual 29%]
-Python      ███░░░░░░░░░░░░░░░░░   16.9%  93 hrs 28 mins [AI 63% · Manual 37%]
-TeX         ██░░░░░░░░░░░░░░░░░░    9.4%  52 hrs 21 mins [AI 81% · Manual 19%]
-JSON        █░░░░░░░░░░░░░░░░░░░    6.3%  35 hrs 11 mins [AI 50% · Manual 50%]
+TypeScript  ████░░░░░░░░░░░░░░░░   22.4%  127 hrs 6 mins [AI 44% · Manual 56%]
+Python      ████░░░░░░░░░░░░░░░░   17.5%  99 hrs 20 mins [AI 65% · Manual 35%]
+Markdown    ████░░░░░░░░░░░░░░░░   17.5%  99 hrs 19 mins [AI 72% · Manual 28%]
+TeX         ██░░░░░░░░░░░░░░░░░░   10.4%  58 hrs 57 mins [AI 81% · Manual 19%]
+Other       █░░░░░░░░░░░░░░░░░░░    7.0%  39 hrs 29 mins [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
