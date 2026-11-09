@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,524 hrs 40 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,528 hrs 36 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -14,30 +14,30 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 30 hrs 28 mins total • 4 hrs 21 mins/day
+**Last 7 Days:** 31 hrs 14 mins total • 4 hrs 27 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
-**Last 30 Days:** 0 secs total • unavailable/day
+**Last 30 Days:** 134 hrs total • 4 hrs 37 mins/day
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 526 hrs 45 mins total • 1 hr 54 mins/day
+**Last Year:** 521 hrs 39 mins total • 1 hr 53 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AITOKENS:START -->
-**Last 30 Days AI Tokens:** 111.8M in • 3.0M out
+**Last 30 Days AI Tokens:** 106.0M in • 3.0M out
 <!-- WAKATIME_LAST30AITOKENS:END -->
 
 <!-- WAKATIME_LAST30AIRATIO:START -->
-**Last 30 Days AI vs Human:** 79% AI • 21% human
+**Last 30 Days AI vs Human:** 76% AI • 24% human
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 368.4M in • 10.7M out
+**Last Year AI Tokens:** 370.5M in • 10.8M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -46,14 +46,14 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST30AICOST:START -->
-**Last 30 Days AI Cost:** $2041.86 total
+**Last 30 Days AI Cost:** $2437.46 total
 
 <pre>
-Nemotron  █████████████░░░░░░░  $1318.88
-GLM       ██████░░░░░░░░░░░░░░  $646.25
-Opus      ░░░░░░░░░░░░░░░░░░░░  $32.25
-Glm       ░░░░░░░░░░░░░░░░░░░░  $18.88
-Sonnet    ░░░░░░░░░░░░░░░░░░░░  $11.25
+Nemotron  ███████████████░░░░░  $1827.29
+GLM       █████░░░░░░░░░░░░░░░  $563.61
+Opus      ░░░░░░░░░░░░░░░░░░░░  $19.31
+Sonnet    ░░░░░░░░░░░░░░░░░░░░  $18.99
+K         ░░░░░░░░░░░░░░░░░░░░  $2.87
 </pre>
 <!-- WAKATIME_LAST30AICOST:END -->
 
@@ -64,10 +64,11 @@ Sonnet    ░░░░░░░░░░░░░░░░░░░░  $11.25
 **Last 30 Days Activity Categories:**
 
 <pre>
-AI Coding     ███████████████████░   94.9%  120 hrs 18 mins
-Coding        █░░░░░░░░░░░░░░░░░░░    4.1%  5 hrs 12 mins
-Building      ░░░░░░░░░░░░░░░░░░░░    0.5%  40 mins
-Writing Docs  ░░░░░░░░░░░░░░░░░░░░    0.5%  35 mins
+AI Coding      ███████████████████░   94.7%  143 hrs 4 mins
+Coding         █░░░░░░░░░░░░░░░░░░░    4.0%  6 hrs 2 mins
+Building       ░░░░░░░░░░░░░░░░░░░░    0.7%  1 hr 1 min
+Writing Docs   ░░░░░░░░░░░░░░░░░░░░    0.6%  58 mins
+Writing Tests  ░░░░░░░░░░░░░░░░░░░░    0.0%  0 secs
 </pre>
 
 _Category times are an activity breakdown and may not add up to the total coding time._
@@ -109,11 +110,11 @@ _Category times are an activity breakdown and may not add up to the total coding
 **Last Year Languages:**
 
 <pre>
-TypeScript  ████░░░░░░░░░░░░░░░░   22.4%  127 hrs 6 mins [AI 44% · Manual 56%]
-Python      ████░░░░░░░░░░░░░░░░   17.5%  99 hrs 20 mins [AI 65% · Manual 35%]
-Markdown    ████░░░░░░░░░░░░░░░░   17.5%  99 hrs 19 mins [AI 72% · Manual 28%]
-TeX         ██░░░░░░░░░░░░░░░░░░   10.4%  58 hrs 57 mins [AI 81% · Manual 19%]
-Other       █░░░░░░░░░░░░░░░░░░░    7.0%  39 hrs 29 mins [AI 100% · Manual 0%]
+TypeScript  ████░░░░░░░░░░░░░░░░   21.6%  121 hrs 24 mins [AI 45% · Manual 55%]
+Python      ████░░░░░░░░░░░░░░░░   17.8%  99 hrs 44 mins [AI 65% · Manual 35%]
+Markdown    ████░░░░░░░░░░░░░░░░   17.7%  99 hrs 23 mins [AI 72% · Manual 28%]
+TeX         ██░░░░░░░░░░░░░░░░░░   11.0%  61 hrs 28 mins [AI 81% · Manual 19%]
+Other       █░░░░░░░░░░░░░░░░░░░    7.0%  39 hrs 18 mins [AI 100% · Manual 0%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
