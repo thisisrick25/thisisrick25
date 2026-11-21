@@ -3,7 +3,7 @@
 <div align="right">
 
 <!-- WAKATIME_SINCETODAY:START -->
-**All-Time Total:** 2,546 hrs 38 mins (since Thu Sep 3rd 2020)
+**All-Time Total:** 2,557 hrs 36 mins (since Thu Sep 3rd 2020)
 <!-- WAKATIME_SINCETODAY:END -->
 
 </div>
@@ -14,7 +14,7 @@
 <td valign="top" width="50%">
 
 <!-- WAKATIME_LAST7TOTAL:START -->
-**Last 7 Days:** 22 hrs 24 mins total • 3 hrs 12 mins/day
+**Last 7 Days:** 10 hrs 31 mins total • 2 hrs 6 mins/day
 <!-- WAKATIME_LAST7TOTAL:END -->
 
 <!-- WAKATIME_LAST30TOTAL:START -->
@@ -22,7 +22,7 @@
 <!-- WAKATIME_LAST30TOTAL:END -->
 
 <!-- WAKATIME_LASTYEARTOTAL:START -->
-**Last Year:** 528 hrs 18 mins total • 1 hr 54 mins/day
+**Last Year:** 521 hrs 9 mins total • 1 hr 53 mins/day
 <!-- WAKATIME_LASTYEARTOTAL:END -->
 
 </td>
@@ -37,7 +37,7 @@
 <!-- WAKATIME_LAST30AIRATIO:END -->
 
 <!-- WAKATIME_LASTYEARAITOKENS:START -->
-**Last Year AI Tokens:** 379.9M in • 11.3M out
+**Last Year AI Tokens:** 391.6M in • 11.6M out
 <!-- WAKATIME_LASTYEARAITOKENS:END -->
 
 </td>
@@ -110,11 +110,11 @@ _Category times are an activity breakdown and may not add up to the total coding
 **Last Year Languages:**
 
 <pre>
-TypeScript  ████░░░░░░░░░░░░░░░░   21.7%  123 hrs 18 mins [AI 52% · Manual 48%]
-Python      ████░░░░░░░░░░░░░░░░   17.6%  99 hrs 44 mins [AI 65% · Manual 35%]
-Markdown    ████░░░░░░░░░░░░░░░░   17.6%  99 hrs 44 mins [AI 72% · Manual 28%]
-TeX         ██░░░░░░░░░░░░░░░░░░   11.4%  64 hrs 37 mins [AI 80% · Manual 20%]
-Other       █░░░░░░░░░░░░░░░░░░░    7.0%  39 hrs 56 mins [AI 100% · Manual 0%]
+TypeScript  ████░░░░░░░░░░░░░░░░   21.9%  122 hrs 48 mins [AI 52% · Manual 48%]
+Markdown    ████░░░░░░░░░░░░░░░░   17.8%  100 hrs 5 mins [AI 72% · Manual 28%]
+Python      ████░░░░░░░░░░░░░░░░   17.8%  99 hrs 49 mins [AI 65% · Manual 35%]
+TeX         ███░░░░░░░░░░░░░░░░░   13.1%  73 hrs 13 mins [AI 79% · Manual 21%]
+JSON        █░░░░░░░░░░░░░░░░░░░    7.2%  40 hrs 17 mins [AI 55% · Manual 45%]
 </pre>
 <!-- WAKATIME_LASTYEARLANGUAGES:END -->
 
